@@ -1,14 +1,14 @@
 {
-    "title": "Nome do Seu Mangá",
-    "description": "Descrição do seu mangá.",
-    "artist": "Desconhecido",
-    "author": "Desconhecido",
-    "cover": "",
+    "title": "aaa",
+    "description": "asdasdsdasd",
+    "artist": "f",
+    "author": "g",
+    "cover": "wswdawd",
     "chapters": {
         "Capitulo01": {
             "title": "Capitulo01",
             "volume": "1",
-            "last_updated": "1745670338",
+            "last_updated": "1745670929",
             "groups": {
                 "Catbox": [
                     "https://files.catbox.moe/04z9wr.png",
@@ -37,7 +37,7 @@
         "Capitulo02": {
             "title": "Capitulo02",
             "volume": "1",
-            "last_updated": "1745670407",
+            "last_updated": "1745670998",
             "groups": {
                 "Catbox": [
                     "https://files.catbox.moe/e1kzbb.jpg",
