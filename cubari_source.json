@@ -1,77 +1,29 @@
 {
-  "title": "Nome do Seu Mangá",
-  "description": "Descrição do seu mangá.",
-  "artist": "Desconhecido",
-  "author": "Desconhecido",
-  "cover": "",
-  "chapters": {
-    "1": {
-      "title": "1",
-      "volume": "1",
-      "last_updated": "1745654616",
-      "groups": {
-        "Catbox": [
-                    "https://files.catbox.moe/b5q321.zip",
-
-        ]
-      }
-    },
-    "2": {
-      "title": "2",
-      "volume": "1",
-      "last_updated": "1745654687",
-      "groups": {
-        "Catbox": [
-                    "https://files.catbox.moe/no1z1s.jpg",
-                    "https://files.catbox.moe/5szine.jpg",
-                    "https://files.catbox.moe/66338j.jpg",
-                    "https://files.catbox.moe/79p0me.jpg",
-                    "https://files.catbox.moe/4lzuou.jpg",
-                    "https://files.catbox.moe/xk0gsx.jpg",
-                    "https://files.catbox.moe/sazycx.jpg",
-                    "https://files.catbox.moe/rj4jh8.jpg",
-                    "https://files.catbox.moe/tp5ema.jpg",
-                    "https://files.catbox.moe/i9f27o.jpg",
-                    "https://files.catbox.moe/slsfoa.jpg",
-                    "https://files.catbox.moe/j9iufo.jpg",
-                    "https://files.catbox.moe/z9j72s.jpg",
-                    "https://files.catbox.moe/93lh0o.jpg",
-                    "https://files.catbox.moe/4y7ldp.jpg",
-                    "https://files.catbox.moe/q4oqsf.jpg",
-                    "https://files.catbox.moe/mkmel9.jpg",
-                    "https://files.catbox.moe/f5ahij.jpg"
-        ]
-      }
-    },
-    "3": {
-      "title": "3",
-      "volume": "1",
-      "last_updated": "1745654766",
-      "groups": {
-        "Catbox": [
-          "https://files.catbox.moe/gptids.zip"
-        ]
-      }
-    },
-    "4": {
-      "title": "4",
-      "volume": "1",
-      "last_updated": "1745654866",
-      "groups": {
-        "Catbox": [
-          "https://catbox.moe/c/aijpsn"
-        ]
-      }
-    },
-    "5": {
-      "title": "5",
-      "volume": "1",
-      "last_updated": "1745654936",
-      "groups": {
-        "Catbox": [
-          "https://catbox.moe/c/5dhas0"
-        ]
-      }
+    "title": "Regressei para Minha Família Arruinada",
+    "description": "Nasci como o filho mais velho de uma família espadachim renomada, e me tornei mais forte do que qualquer um. Ainda assim, não pude parar os dragões, um grande desastre que apareceu no continente. Fechei meus olhos em meu último momento, pensando que estava tudo acabado. Eu realmente achei isso… Mas quando abri meus olhos, eu estava de volta ao passado. Um passado bem diferente do mundo que eu conhecia. “O quê? Esse é meu corpo mesmo? Por que eu não tenho nenhuma mana?” “Pra onde o castelo foi? Por que só tem uma casa de madeira?” “…o quê? Os dragões e os humanos fizeram um pacto de não-agressão?” Uma família que caiu e estava à beira da ruína. Uma família cuja escrita divina havia desaparecido. E um corpo no qual não se achava mana! “…vou ter que me manter ocupado de agora em diante.” O grande herói de uma renomada família espadachim. Ele está de volta ao passado, em um ‘mundo paralelo’.",
+    "artist": " ",
+    "author": " ",
+    "cover": "https://infinyxscan.cloud/manga/regressei-para-minha-familia-arruinada/",
+    "chapters": {
+        "Capitulo01": {
+            "title": "Capitulo01",
+            "volume": "1",
+            "last_updated": "1745666062",
+            "groups": {
+                "Catbox": [
+                    "https://catbox.moe/c/dbv9ha"
+                ]
+            }
+        },
+        "Capitulo02": {
+            "title": "Capitulo02",
+            "volume": "1",
+            "last_updated": "1745666115",
+            "groups": {
+                "Catbox": [
+                    "https://catbox.moe/c/q6im04"
+                ]
+            }
+        }
     }
-  }
 }
