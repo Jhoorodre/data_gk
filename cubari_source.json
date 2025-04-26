@@ -1,131 +1,131 @@
 {
-    "title": "TÃ­tulo do MangÃ¡ Exemplo",
-    "description": "DescriÃ§Ã£o do MangÃ¡ Exemplo",
-    "artist": "Artista Exemplo",
-    "author": "Autor Exemplo",
-    "cover": "https://linkparaimagem.com/capa.jpg  # (opcional)",
-    "chapters": {
-        "Capitulo01": {
-            "title": "Capitulo01",
-            "volume": "",
-            "last_updated": "1745679328",
-            "groups": {
-                "Gikamura": [
-                    "https://files.catbox.moe/zsodb0.png",
-                    "https://files.catbox.moe/xslbrl.png",
-                    "https://files.catbox.moe/4b14vv.png",
-                    "https://files.catbox.moe/wqc6v8.png",
-                    "https://files.catbox.moe/avk0l7.png",
-                    "https://files.catbox.moe/9oitcx.png",
-                    "https://files.catbox.moe/7in7ah.png",
-                    "https://files.catbox.moe/oilyyv.png",
-                    "https://files.catbox.moe/rdq812.png",
-                    "https://files.catbox.moe/zr8klv.png",
-                    "https://files.catbox.moe/j4jzjg.png",
-                    "https://files.catbox.moe/m7s9c2.png",
-                    "https://files.catbox.moe/u3afwc.png",
-                    "https://files.catbox.moe/ar3e9r.png",
-                    "https://files.catbox.moe/23t4ex.png",
-                    "https://files.catbox.moe/h9xuyf.png",
-                    "https://files.catbox.moe/uloapw.png",
-                    "https://files.catbox.moe/ya1p1w.png",
-                    "https://files.catbox.moe/zxec5d.png",
-                    "https://files.catbox.moe/u2tkq3.png"
-                ]
-            }
-        },
-        "Capitulo02": {
-            "title": "Capitulo02",
-            "volume": "",
-            "last_updated": "1745679356",
-            "groups": {
-                "Gikamura": [
-                    "https://files.catbox.moe/w6q9rz.jpg",
-                    "https://files.catbox.moe/sm7m4p.jpg",
-                    "https://files.catbox.moe/1d4ae8.jpg",
-                    "https://files.catbox.moe/mznsb2.jpg",
-                    "https://files.catbox.moe/60vh6q.jpg",
-                    "https://files.catbox.moe/93h659.jpg",
-                    "https://files.catbox.moe/cozt4m.jpg",
-                    "https://files.catbox.moe/3545pf.jpg",
-                    "https://files.catbox.moe/j6ldbf.jpg",
-                    "https://files.catbox.moe/8ifdqn.jpg",
-                    "https://files.catbox.moe/ozhsq0.jpg",
-                    "https://files.catbox.moe/kw0dsu.jpg",
-                    "https://files.catbox.moe/hidsoh.jpg",
-                    "https://files.catbox.moe/w8xyow.jpg",
-                    "https://files.catbox.moe/ypu3xh.jpg",
-                    "https://files.catbox.moe/vs8ojl.jpg",
-                    "https://files.catbox.moe/rsnfvo.jpg",
-                    "https://files.catbox.moe/z5h3n2.jpg"
-                ]
-            }
-        },
-        "Capitulo03": {
-            "title": "Capitulo03",
-            "volume": "",
-            "last_updated": "1745679389",
-            "groups": {
-                "Gikamura": [
-                    "https://files.catbox.moe/pu9yyg.jpg",
-                    "https://files.catbox.moe/k3dp2p.jpg",
-                    "https://files.catbox.moe/p52bj2.jpg",
-                    "https://files.catbox.moe/p9sbgw.jpg",
-                    "https://files.catbox.moe/ctbv5w.jpg",
-                    "https://files.catbox.moe/w7gzs6.jpg",
-                    "https://files.catbox.moe/fmk570.jpg",
-                    "https://files.catbox.moe/f4scs0.jpg",
-                    "https://files.catbox.moe/nban7i.jpg",
-                    "https://files.catbox.moe/b1jy48.jpg",
-                    "https://files.catbox.moe/gkhtij.jpg",
-                    "https://files.catbox.moe/nlyod7.jpg",
-                    "https://files.catbox.moe/43avie.jpg",
-                    "https://files.catbox.moe/i94y9s.jpg",
-                    "https://files.catbox.moe/xuej80.jpg",
-                    "https://files.catbox.moe/8dstbz.jpg",
-                    "https://files.catbox.moe/7dua5w.jpg",
-                    "https://files.catbox.moe/h3tj0n.jpg",
-                    "https://files.catbox.moe/yrrp2b.jpg",
-                    "https://files.catbox.moe/o7rlh1.jpg",
-                    "https://files.catbox.moe/88r1kp.jpg",
-                    "https://files.catbox.moe/2zyw0h.jpg",
-                    "https://files.catbox.moe/j1el5m.jpg",
-                    "https://files.catbox.moe/om6d6t.jpg",
-                    "https://files.catbox.moe/jewb8p.jpg",
-                    "https://files.catbox.moe/7o3lim.jpg",
-                    "https://files.catbox.moe/86a3dj.jpg",
-                    "https://files.catbox.moe/wowdb1.jpg",
-                    "https://files.catbox.moe/hfk0ge.jpg",
-                    "https://files.catbox.moe/z5h3n2.jpg"
-                ]
-            }
-        },
-        "Capitulo04": {
-            "title": "Capitulo04",
-            "volume": "",
-            "last_updated": "1745679417",
-            "groups": {
-                "Gikamura": [
-                    "https://files.catbox.moe/yj0yal.jpg",
-                    "https://files.catbox.moe/lr5idb.jpg",
-                    "https://files.catbox.moe/x627jr.jpg",
-                    "https://files.catbox.moe/n9luja.jpg",
-                    "https://files.catbox.moe/4kfznu.jpg",
-                    "https://files.catbox.moe/a0lvxj.jpg",
-                    "https://files.catbox.moe/qzg780.jpg",
-                    "https://files.catbox.moe/cg892f.jpg",
-                    "https://files.catbox.moe/2wncgm.jpg",
-                    "https://files.catbox.moe/bxjlu6.jpg",
-                    "https://files.catbox.moe/5beq3o.jpg",
-                    "https://files.catbox.moe/2m094u.jpg",
-                    "https://files.catbox.moe/krrep7.jpg",
-                    "https://files.catbox.moe/hrnro5.jpg",
-                    "https://files.catbox.moe/gemb7p.jpg",
-                    "https://files.catbox.moe/gkqjll.jpg",
-                    "https://files.catbox.moe/1v6449.jpg",
-                    "https://files.catbox.moe/hguhns.jpg"
-                ]
-            }
-        }
+  "title": "Regressei para Minha Família Arruinada",
+  "description": "Nasci como o filho mais velho de uma família espadachim renomada, e me tornei mais forte do que qualquer um. Ainda assim, não pude parar os dragões, um grande desastre que apareceu no continente. Fechei meus olhos em meu último momento, pensando que estava tudo acabado. Eu realmente achei isso… Mas quando abri meus olhos, eu estava de volta ao passado. Um passado bem diferente do mundo que eu conhecia. “O quê? Esse é meu corpo mesmo? Por que eu não tenho nenhuma mana?” “Pra onde o castelo foi? Por que só tem uma casa de madeira?” “…o quê? Os dragões e os humanos fizeram um pacto de não-agressão?” Uma família que caiu e estava à beira da ruína. Uma família cuja escrita divina havia desaparecido. E um corpo no qual não se achava mana! “…vou ter que me manter ocupado de agora em diante.” O grande herói de uma renomada família espadachim. Ele está de volta ao passado, em um ‘mundo paralelo’.",
+  "artist": "Kibodeu Manse",
+  "author": "Kibodeu Manse",
+  "cover": "https://cdn.myanimelist.net/images/manga/2/275379l.jpg",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1745682781",
+      "groups": {
+        "": [
+          "https://files.catbox.moe/3m5okd.png",
+          "https://files.catbox.moe/2o96me.png",
+          "https://files.catbox.moe/l56z2l.png",
+          "https://files.catbox.moe/pi6sfy.png",
+          "https://files.catbox.moe/1utn4o.png",
+          "https://files.catbox.moe/6cohr5.png",
+          "https://files.catbox.moe/mkrbuc.png",
+          "https://files.catbox.moe/3ch04g.png",
+          "https://files.catbox.moe/yvu426.png",
+          "https://files.catbox.moe/8f6rom.png",
+          "https://files.catbox.moe/2wteza.png",
+          "https://files.catbox.moe/h30vlb.png",
+          "https://files.catbox.moe/dlnsiv.png",
+          "https://files.catbox.moe/y0by9q.png",
+          "https://files.catbox.moe/q1vs8h.png",
+          "https://files.catbox.moe/j7ndee.png",
+          "https://files.catbox.moe/lrpf4k.png",
+          "https://files.catbox.moe/3v63kx.png",
+          "https://files.catbox.moe/fbda17.png",
+          "https://files.catbox.moe/m4hqip.png"
+        ]
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1745682890",
+      "groups": {
+        "": [
+          "https://files.catbox.moe/m944if.jpg",
+          "https://files.catbox.moe/cqexev.jpg",
+          "https://files.catbox.moe/987ozs.jpg",
+          "https://files.catbox.moe/1iisgt.jpg",
+          "https://files.catbox.moe/wxq4x6.jpg",
+          "https://files.catbox.moe/b872pu.jpg",
+          "https://files.catbox.moe/omjmri.jpg",
+          "https://files.catbox.moe/7wp75r.jpg",
+          "https://files.catbox.moe/6vz3os.jpg",
+          "https://files.catbox.moe/9eenz5.jpg",
+          "https://files.catbox.moe/wd2np3.jpg",
+          "https://files.catbox.moe/vtiq6c.jpg",
+          "https://files.catbox.moe/kvq0af.jpg",
+          "https://files.catbox.moe/d726pl.jpg",
+          "https://files.catbox.moe/ox54r2.jpg",
+          "https://files.catbox.moe/dtb13z.jpg",
+          "https://files.catbox.moe/d2b789.jpg",
+          "https://files.catbox.moe/d4qmax.jpg"
+        ]
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "",
+      "last_updated": "1745683056",
+      "groups": {
+        "": [
+          "https://files.catbox.moe/5c6bke.jpg",
+          "https://files.catbox.moe/w8j78n.jpg",
+          "https://files.catbox.moe/98o5v0.jpg",
+          "https://files.catbox.moe/y1srle.jpg",
+          "https://files.catbox.moe/7cofkj.jpg",
+          "https://files.catbox.moe/odpwy7.jpg",
+          "https://files.catbox.moe/4cu1k7.jpg",
+          "https://files.catbox.moe/gg0hiw.jpg",
+          "https://files.catbox.moe/1lbwt3.jpg",
+          "https://files.catbox.moe/vof975.jpg",
+          "https://files.catbox.moe/rzzf03.jpg",
+          "https://files.catbox.moe/ih91sh.jpg",
+          "https://files.catbox.moe/eacpib.jpg",
+          "https://files.catbox.moe/7691b8.jpg",
+          "https://files.catbox.moe/7sd3l9.jpg",
+          "https://files.catbox.moe/iuuo8a.jpg",
+          "https://files.catbox.moe/4v67ll.jpg",
+          "https://files.catbox.moe/wa0c5v.jpg",
+          "https://files.catbox.moe/hq7jqc.jpg",
+          "https://files.catbox.moe/rbolpe.jpg",
+          "https://files.catbox.moe/lar01v.jpg",
+          "https://files.catbox.moe/2gy4vv.jpg",
+          "https://files.catbox.moe/rucnbk.jpg",
+          "https://files.catbox.moe/51k6zs.jpg",
+          "https://files.catbox.moe/1h2w6h.jpg",
+          "https://files.catbox.moe/qmuyca.jpg",
+          "https://files.catbox.moe/idimwu.jpg",
+          "https://files.catbox.moe/n4zmbi.jpg",
+          "https://files.catbox.moe/b199gx.jpg",
+          "https://files.catbox.moe/d4qmax.jpg"
+        ]
+      }
+    },
+    "4": {
+      "title": "4",
+      "volume": "",
+      "last_updated": "1745683190",
+      "groups": {
+        "": [
+          "https://files.catbox.moe/cwwaba.jpg",
+          "https://files.catbox.moe/4weman.jpg",
+          "https://files.catbox.moe/c0nc74.jpg",
+          "https://files.catbox.moe/zlp035.jpg",
+          "https://files.catbox.moe/z763v1.jpg",
+          "https://files.catbox.moe/sykriz.jpg",
+          "https://files.catbox.moe/a3ur7v.jpg",
+          "https://files.catbox.moe/46wi3o.jpg",
+          "https://files.catbox.moe/29m8my.jpg",
+          "https://files.catbox.moe/z5ynga.jpg",
+          "https://files.catbox.moe/703224.jpg",
+          "https://files.catbox.moe/ozmkhd.jpg",
+          "https://files.catbox.moe/cjo5vk.jpg",
+          "https://files.catbox.moe/argm5q.jpg",
+          "https://files.catbox.moe/o998l2.jpg",
+          "https://files.catbox.moe/ayywn1.jpg",
+          "https://files.catbox.moe/shota6.jpg",
+          "https://files.catbox.moe/3mi66h.jpg"
+        ]
+      }
     }
+  }
 }
