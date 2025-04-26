@@ -1,29 +1,59 @@
 {
-    "title": "Regressei para Minha Família Arruinada",
-    "description": "Nasci como o filho mais velho de uma família espadachim renomada, e me tornei mais forte do que qualquer um. Ainda assim, não pude parar os dragões, um grande desastre que apareceu no continente. Fechei meus olhos em meu último momento, pensando que estava tudo acabado. Eu realmente achei isso… Mas quando abri meus olhos, eu estava de volta ao passado. Um passado bem diferente do mundo que eu conhecia. “O quê? Esse é meu corpo mesmo? Por que eu não tenho nenhuma mana?” “Pra onde o castelo foi? Por que só tem uma casa de madeira?” “…o quê? Os dragões e os humanos fizeram um pacto de não-agressão?” Uma família que caiu e estava à beira da ruína. Uma família cuja escrita divina havia desaparecido. E um corpo no qual não se achava mana! “…vou ter que me manter ocupado de agora em diante.” O grande herói de uma renomada família espadachim. Ele está de volta ao passado, em um ‘mundo paralelo’.",
-    "artist": "Kibodeu Manse",
-    "author": "Kibodeu Manse",
-    "cover": "https://cdn.myanimelist.net/images/manga/2/275379l.jpg",
-    "chapters": {
-        "Capitulo01": {
-            "title": "Capitulo01",
-            "volume": "1",
-            "last_updated": "1745667319",
-            "groups": {
-                "Catbox": [
-                    "https://catbox.moe/c/jk1q55"
-                ]
-            }
-        },
-        "Capitulo02": {
-            "title": "Capitulo02",
-            "volume": "1",
-            "last_updated": "1745667377",
-            "groups": {
-                "Catbox": [
-                    "https://catbox.moe/c/z4qlvn"
-                ]
-            }
-        }
+  "title": "Nome do Seu Mangá",
+  "description": "Descrição do seu mangá.",
+  "artist": "Desconhecido",
+  "author": "Desconhecido",
+  "cover": "https://cdn.myanimelist.net/images/manga/2/275379l.jpg",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1713896400",
+      "groups": {
+        "Catbox": [
+          "https://catbox.moe/c/jk1q55"
+        ]
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "1",
+      "last_updated": "1713896400",
+      "groups": {
+        "Catbox": [
+          "https://catbox.moe/c/z4qlvn"
+        ]
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "1",
+      "last_updated": "1713896400",
+      "groups": {
+        "Catbox": [
+          "https://catbox.moe/c/n355uf"
+        ]
+      }
+    },
+    "4": {
+      "title": "4",
+      "volume": "1",
+      "last_updated": "1713896400",
+      "groups": {
+        "Catbox": [
+          "https://catbox.moe/c/aijpsn"
+        ]
+      }
+    },
+    "5": {
+      "title": "5",
+      "volume": "1",
+      "last_updated": "1713896400",
+      "groups": {
+        "Catbox": [
+          "https://catbox.moe/c/5dhas0"
+        ]
+      }
     }
+  }
 }
