@@ -1,93 +1,63 @@
 {
-  "title": "Nome do Seu Mangá",
-  "description": "Descrição do seu mangá.",
-  "artist": "Desconhecido",
-  "author": "Desconhecido",
-  "cover": "",
+  "title": "Regressei para Minha Família Arruinada",
+  "description": "Nasci como o filho mais velho de uma família espadachim renomada, e me tornei mais forte do que qualquer um. Ainda assim, não pude parar os dragões, um grande desastre que apareceu no continente. Fechei meus olhos em meu último momento, pensando que estava tudo acabado. Eu realmente achei isso… Mas quando abri meus olhos, eu estava de volta ao passado. Um passado bem diferente do mundo que eu conhecia. “O quê? Esse é meu corpo mesmo? Por que eu não tenho nenhuma mana?” “Pra onde o castelo foi? Por que só tem uma casa de madeira?” “…o quê? Os dragões e os humanos fizeram um pacto de não-agressão?” Uma família que caiu e estava à beira da ruína. Uma família cuja escrita divina havia desaparecido. E um corpo no qual não se achava mana! “…vou ter que me manter ocupado de agora em diante.” O grande herói de uma renomada família espadachim. Ele está de volta ao passado, em um ‘mundo paralelo’.",
+  "artist": "Kibodeu Manse",
+  "author": "Kibodeu Manse",
+  "cover": "https://cdn.myanimelist.net/images/manga/2/275379l.jpg",
   "chapters": {
     "1": {
       "title": "1",
-      "volume": "1",
-      "last_updated": "1745654616",
+      "volume": "",
+      "last_updated": "1745672913",
       "groups": {
-        "Catbox": [
-          "https://files.catbox.moe/04z9wr.png",
-          "https://files.catbox.moe/w0zt9r.png",
-          "https://files.catbox.moe/2bf587.png",
-          "https://files.catbox.moe/1jbu0g.png",
-          "https://files.catbox.moe/4l5ced.png",
-          "https://files.catbox.moe/pnemfv.png",
-          "https://files.catbox.moe/ktax3k.png",
-          "https://files.catbox.moe/aikvlx.png",
-          "https://files.catbox.moe/u1joav.png",
-          "https://files.catbox.moe/jwi7y8.png",
-          "https://files.catbox.moe/j37x1q.png",
-          "https://files.catbox.moe/v9i6q6.png",
-          "https://files.catbox.moe/k6fanm.png",
-          "https://files.catbox.moe/je71lj.png",
-          "https://files.catbox.moe/f9m843.png",
-          "https://files.catbox.moe/lxgg6q.png",
-          "https://files.catbox.moe/5mma3q.png",
-          "https://files.catbox.moe/uq5nfn.png",
-          "https://files.catbox.moe/qb56wx.png",
-          "https://files.catbox.moe/xv35z6.png"
+        "": [
+          "https://files.catbox.moe/zsodb0.png",
+          "https://files.catbox.moe/xslbrl.png",
+          "https://files.catbox.moe/4b14vv.png",
+          "https://files.catbox.moe/wqc6v8.png",
+          "https://files.catbox.moe/avk0l7.png",
+          "https://files.catbox.moe/9oitcx.png",
+          "https://files.catbox.moe/7in7ah.png",
+          "https://files.catbox.moe/oilyyv.png",
+          "https://files.catbox.moe/rdq812.png",
+          "https://files.catbox.moe/zr8klv.png",
+          "https://files.catbox.moe/j4jzjg.png",
+          "https://files.catbox.moe/m7s9c2.png",
+          "https://files.catbox.moe/u3afwc.png",
+          "https://files.catbox.moe/ar3e9r.png",
+          "https://files.catbox.moe/23t4ex.png",
+          "https://files.catbox.moe/h9xuyf.png",
+          "https://files.catbox.moe/uloapw.png",
+          "https://files.catbox.moe/ya1p1w.png",
+          "https://files.catbox.moe/zxec5d.png",
+          "https://files.catbox.moe/u2tkq3.png"
         ]
       }
     },
     "2": {
       "title": "2",
-      "volume": "1",
-      "last_updated": "1745654687",
+      "volume": "",
+      "last_updated": "1745672976",
       "groups": {
-        "Catbox": [
-          "https://files.catbox.moe/e1kzbb.jpg",
-          "https://files.catbox.moe/bvio80.jpg",
-          "https://files.catbox.moe/4kjn7v.jpg",
-          "https://files.catbox.moe/y1tb4w.jpg",
-          "https://files.catbox.moe/1axuxl.jpg",
-          "https://files.catbox.moe/obgo3u.jpg",
-          "https://files.catbox.moe/ha63ym.jpg",
-          "https://files.catbox.moe/4s5qh7.jpg",
-          "https://files.catbox.moe/shkhdj.jpg",
-          "https://files.catbox.moe/6wq4mw.jpg",
-          "https://files.catbox.moe/zk3g0s.jpg",
-          "https://files.catbox.moe/9aualr.jpg",
-          "https://files.catbox.moe/bc2cqj.jpg",
-          "https://files.catbox.moe/a8a618.jpg",
-          "https://files.catbox.moe/4bix06.jpg",
-          "https://files.catbox.moe/slc9od.jpg",
-          "https://files.catbox.moe/9s78qb.jpg",
-          "https://files.catbox.moe/pwjws9.jpg"
-        ]
-      }
-    },
-    "3": {
-      "title": "3",
-      "volume": "1",
-      "last_updated": "1745654766",
-      "groups": {
-        "Catbox": [
-          "https://catbox.moe/c/n355uf"
-        ]
-      }
-    },
-    "4": {
-      "title": "4",
-      "volume": "1",
-      "last_updated": "1745654866",
-      "groups": {
-        "Catbox": [
-          "https://catbox.moe/c/aijpsn"
-        ]
-      }
-    },
-    "5": {
-      "title": "5",
-      "volume": "1",
-      "last_updated": "1745654936",
-      "groups": {
-        "Catbox": [
-          "https://catbox.moe/c/5dhas0"
+        "": [
+          "https://files.catbox.moe/w6q9rz.jpg",
+          "https://files.catbox.moe/sm7m4p.jpg",
+          "https://files.catbox.moe/1d4ae8.jpg",
+          "https://files.catbox.moe/mznsb2.jpg",
+          "https://files.catbox.moe/60vh6q.jpg",
+          "https://files.catbox.moe/93h659.jpg",
+          "https://files.catbox.moe/cozt4m.jpg",
+          "https://files.catbox.moe/3545pf.jpg",
+          "https://files.catbox.moe/j6ldbf.jpg",
+          "https://files.catbox.moe/8ifdqn.jpg",
+          "https://files.catbox.moe/ozhsq0.jpg",
+          "https://files.catbox.moe/kw0dsu.jpg",
+          "https://files.catbox.moe/hidsoh.jpg",
+          "https://files.catbox.moe/w8xyow.jpg",
+          "https://files.catbox.moe/ypu3xh.jpg",
+          "https://files.catbox.moe/vs8ojl.jpg",
+          "https://files.catbox.moe/rsnfvo.jpg",
+          "https://files.catbox.moe/z5h3n2.jpg"
         ]
       }
     }
