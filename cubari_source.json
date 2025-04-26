@@ -1,0 +1,49 @@
+{
+    "title": "Nome do Seu Mangá",
+    "description": "Descrição do seu mangá.",
+    "artist": "Desconhecido",
+    "author": "Desconhecido",
+    "cover": "",
+    "chapters": {
+        "Regressei minha viada - Capitulo01": {
+            "title": "Capitulo01",
+            "volume": "1",
+            "groups": {
+                "Catbox": "https://catbox.moe/c/z0pai0"
+            },
+            "last_updated": "1745654616"
+        },
+        "Regressei minha viada - Capitulo02": {
+            "title": "Capitulo02",
+            "volume": "1",
+            "groups": {
+                "Catbox": "https://catbox.moe/c/x9prwe"
+            },
+            "last_updated": "1745654687"
+        },
+        "Regressei minha viada - Capitulo03": {
+            "title": "Capitulo03",
+            "volume": "1",
+            "groups": {
+                "Catbox": "https://catbox.moe/c/n355uf"
+            },
+            "last_updated": "1745654766"
+        },
+        "Regressei minha viada - Capitulo04": {
+            "title": "Capitulo04",
+            "volume": "1",
+            "groups": {
+                "Catbox": "https://catbox.moe/c/aijpsn"
+            },
+            "last_updated": "1745654866"
+        },
+        "Regressei minha viada - Capitulo05": {
+            "title": "Capitulo05",
+            "volume": "1",
+            "groups": {
+                "Catbox": "https://catbox.moe/c/5dhas0"
+            },
+            "last_updated": "1745654936"
+        }
+    }
+}
