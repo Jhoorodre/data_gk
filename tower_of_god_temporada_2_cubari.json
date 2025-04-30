@@ -1,6 +1,6 @@
 {
   "title": "Tower of God Temporada 2",
-  "description": "Os indivíduos que estão tentando subir a torre enfrentam um desafio proposto por Lero Ro, eles devem ser capazes de ultrapassar a cortina feita de shinsu! No entanto, Bam, Khun e Rak conseguem passar com facilidade e avançam para a fase seguinte. Só que, enquanto aguardavam para iniciar a próxima prova, ouvem um grito estrondoso ecoando na sala do teste. O que poderia ter causado isso...?",
+  "description": "",
   "artist": "SIU\t",
   "author": "SIU",
   "cover": "https://cdn.myanimelist.net/images/manga/2/223694l.jpg",
@@ -490,6 +490,45 @@
           "https://files.catbox.moe/z88ygf.jpg"
         ]
       }
+    },
+    "000": {
+      "title": "Capítulo 000",
+      "volume": "",
+      "last_updated": "1745987020",
+      "groups": {
+        "Gikamura": [
+          "https://files.catbox.moe/t9g4gc.jpg",
+          "https://files.catbox.moe/1shiyj.jpg",
+          "https://files.catbox.moe/x9a3tc.jpg",
+          "https://files.catbox.moe/yl0986.jpg",
+          "https://files.catbox.moe/kzoauk.jpg",
+          "https://files.catbox.moe/puuznq.jpg",
+          "https://files.catbox.moe/uzfsdx.jpg",
+          "https://files.catbox.moe/6bsfzj.jpg",
+          "https://files.catbox.moe/cd1jhe.jpg",
+          "https://files.catbox.moe/4s2n30.jpg",
+          "https://files.catbox.moe/xoaqgd.jpg",
+          "https://files.catbox.moe/6sey74.jpg",
+          "https://files.catbox.moe/d6dxml.jpg",
+          "https://files.catbox.moe/pwpbm4.jpg",
+          "https://files.catbox.moe/j5pxnf.jpg",
+          "https://files.catbox.moe/ch6mzy.jpg",
+          "https://files.catbox.moe/z8eb74.jpg",
+          "https://files.catbox.moe/u76zlk.jpg",
+          "https://files.catbox.moe/ye2xh9.jpg",
+          "https://files.catbox.moe/sbka29.jpg",
+          "https://files.catbox.moe/jtbhme.jpg",
+          "https://files.catbox.moe/xpq2jn.jpg",
+          "https://files.catbox.moe/sw4bj4.jpg",
+          "https://files.catbox.moe/31n5lf.jpg"
+        ]
+      }
+    }
+  },
+  "group": "Gikamura",
+  "extra_info": {
+    "catbox_albums": {
+      "Tower of God Temporada 2 - Cap. 000": "https://catbox.moe/c/7ushbp"
     }
   }
 }
