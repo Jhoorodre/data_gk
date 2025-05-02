@@ -37,9 +37,9 @@
     "002": {
       "title": "Capítulo 002",
       "volume": "",
-      "last_updated": "1745985904",
+      "last_updated": "1746160375",
       "groups": {
-        "Gikamura": [
+        "": [
           "https://files.catbox.moe/a9nsch.jpg",
           "https://files.catbox.moe/45be9e.jpg",
           "https://files.catbox.moe/vj7628.jpg",
@@ -456,7 +456,7 @@
       "Ler The Hated Black - Cap. 010": "https://catbox.moe/c/fce5im",
       "Ler The Hated Black - Cap. 005": "https://catbox.moe/c/wmykni",
       "Ler The Hated Black - Cap. 006": "https://catbox.moe/c/wet7v9",
-      "Ler The Hated Black - Cap. 002": "https://catbox.moe/c/o83ic1",
+      "Ler The Hated Black - Cap. 002": "https://catbox.moe/c/yco0a7",
       "Ler The Hated Black - Cap. 007": "https://catbox.moe/c/tlp70d",
       "Ler The Hated Black - Cap. 013": "https://catbox.moe/c/7is3vu",
       "Ler The Hated Black - Cap. 015": "https://catbox.moe/c/efzjrc",
@@ -469,5 +469,7 @@
   "artist": "Koharunrun",
   "author": "ODORU Issei",
   "cover": "https://cdn.mangaupdates.com/image/i456762.jpg",
-  "group": "Gikamura"
+  "group": "",
+  "status": "",
+  "genres": ""
 }
