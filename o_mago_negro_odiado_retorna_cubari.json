@@ -66,8 +66,11 @@
       }
     },
     "003": {
+      "title": "Capítulo 3",
+      "volume": "",
+      "last_updated": "1746334281",
       "groups": {
-        "": [
+        "Remangas": [
           "https://files.catbox.moe/a9nsch.jpg",
           "https://files.catbox.moe/15n8mx.jpg",
           "https://files.catbox.moe/d9ixt3.jpg",
@@ -89,10 +92,7 @@
           "https://files.catbox.moe/sglgyp.jpg",
           "https://files.catbox.moe/a9nsch.jpg"
         ]
-      },
-      "last_updated": "1746164344",
-      "title": "Capítulo 003",
-      "volume": ""
+      }
     },
     "004": {
       "groups": {
@@ -186,7 +186,7 @@
     "catbox_albums": {
       "O Mago Negro Odiado Retorna - Cap. 001": "https://catbox.moe/c/qk3yvq",
       "O Mago Negro Odiado Retorna - Cap. 002": "https://catbox.moe/c/oxg63e",
-      "O Mago Negro Odiado Retorna - Cap. 003": "https://catbox.moe/c/f8bb0l",
+      "O Mago Negro Odiado Retorna - Cap. 003": "https://catbox.moe/c/qy6l5s",
       "O Mago Negro Odiado Retorna - Cap. 004": "https://catbox.moe/c/xiv90v",
       "O Mago Negro Odiado Retorna - Cap. 005": "https://catbox.moe/c/zman9i",
       "O Mago Negro Odiado Retorna - Cap. 006": "https://catbox.moe/c/67x8xc"
@@ -197,6 +197,6 @@
   "status": "Em Andamento",
   "title": "O Mago Negro Odiado Retorna",
   "alt_titles": "The Hated Black Mage Returns",
-  "last_updated": "1746333847",
-  "chapter_title": "Capítulo 2"
+  "last_updated": "1746334245",
+  "chapter_title": "Capítulo 3"
 }
