@@ -1,10 +1,13 @@
 {
-  "artist": "Koharunrun",
-  "author": "ODORU Issei",
+  "artist": "ODORU Issei",
+  "author": "Koharunrun",
   "chapters": {
     "001": {
+      "title": "Capítulo 001",
+      "volume": "",
+      "last_updated": "1746327722",
       "groups": {
-        "": [
+        "Gikamura": [
           "https://files.catbox.moe/a9nsch.jpg",
           "https://files.catbox.moe/m7mxqw.jpg",
           "https://files.catbox.moe/k50h58.jpg",
@@ -29,10 +32,7 @@
           "https://files.catbox.moe/ivxy0v.jpg",
           "https://files.catbox.moe/j3e0gy.jpg"
         ]
-      },
-      "last_updated": "1746164547",
-      "title": "Capítulo 001",
-      "volume": ""
+      }
     },
     "002": {
       "groups": {
@@ -184,7 +184,7 @@
   "description": "Kai, um mago negro, é traído por seu irmão, o herói Ares, e morto junto com o rei demônio. Ares, o herói, estava prestes a tomar para si Collette, a santa que amava Kai. No entanto, Kai, que havia acabado de ser morto por Ares, subitamente acorda e percebe que o tempo voltou até o dia da [cerimônia de revelação de classes], cinco anos antes. Sabendo do futuro — em que ele receberia a classe de \"Mago Negro\", seria desprezado por sua suposta incompetência e expulso da nobreza —, e agora possuindo o poder sombrio de nível 999 herdado da sua primeira vida, Kai decide derrubar o herói Ares e recuperar sua amiga de infância, a santa Collette... para mudar seu destino de destruição.\n\nAssim começa uma história de vingança daquele que foi odiado, para recuperar quem ama e mudar o futuro!",
   "extra_info": {
     "catbox_albums": {
-      "O Mago Negro Odiado Retorna - Cap. 001": "https://catbox.moe/c/2cposq",
+      "O Mago Negro Odiado Retorna - Cap. 001": "https://catbox.moe/c/70x5hv",
       "O Mago Negro Odiado Retorna - Cap. 002": "https://catbox.moe/c/keb3uu",
       "O Mago Negro Odiado Retorna - Cap. 003": "https://catbox.moe/c/f8bb0l",
       "O Mago Negro Odiado Retorna - Cap. 004": "https://catbox.moe/c/xiv90v",
@@ -193,7 +193,9 @@
     }
   },
   "genres": "",
-  "group": "",
-  "status": "",
-  "title": "O Mago Negro Odiado Retorna"
+  "group": "Gikamura",
+  "status": "Andamento",
+  "title": "O Mago Negro Odiado Retorna",
+  "alt_titles": "The Hated Black Mage Returns",
+  "last_updated": "1746327572"
 }
