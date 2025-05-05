@@ -35,11 +35,11 @@
       }
     },
     "002": {
-      "title": "Capítulo 2",
+      "title": "Capítulo 02",
       "volume": "",
-      "last_updated": "1746333876",
+      "last_updated": "1746413802",
       "groups": {
-        "Remangas": [
+        "Gikamura": [
           "https://files.catbox.moe/a9nsch.jpg",
           "https://files.catbox.moe/45be9e.jpg",
           "https://files.catbox.moe/vj7628.jpg",
@@ -185,7 +185,7 @@
   "extra_info": {
     "catbox_albums": {
       "O Mago Negro Odiado Retorna - Cap. 001": "https://catbox.moe/c/rxvgv4",
-      "O Mago Negro Odiado Retorna - Cap. 002": "https://catbox.moe/c/oxg63e",
+      "O Mago Negro Odiado Retorna - Cap. 002": "https://catbox.moe/c/ah2hc2",
       "O Mago Negro Odiado Retorna - Cap. 003": "https://catbox.moe/c/qy6l5s",
       "O Mago Negro Odiado Retorna - Cap. 004": "https://catbox.moe/c/xiv90v",
       "O Mago Negro Odiado Retorna - Cap. 005": "https://catbox.moe/c/zman9i",
@@ -198,7 +198,7 @@
   "title": "O Mago Negro Odiado Retorna",
   "alt_titles": "The Hated Black Mage Returns",
   "last_updated": "1746336464",
-  "chapter_title": "Capítulo 01",
+  "chapter_title": "Capítulo 02",
   "cover_url": "https://mangadex.org/covers/85382776-6881-4019-9adb-411b32f6068a/13612800-909a-44ec-8c3a-f33b4120d788.jpg",
-  "timestamp": "1746413189"
+  "timestamp": "1746413744"
 }
