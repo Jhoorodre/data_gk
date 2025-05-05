@@ -155,12 +155,48 @@
           "https://files.catbox.moe/lvrtue.png"
         ]
       }
+    },
+    "006": {
+      "title": "Capítulo 06",
+      "volume": "",
+      "last_updated": "1746419050",
+      "groups": {
+        "TOG Brasil": [
+          "https://files.catbox.moe/h1vme5.jpg",
+          "https://files.catbox.moe/h2i37e.jpg",
+          "https://files.catbox.moe/vri4og.jpg",
+          "https://files.catbox.moe/rykcwf.jpg",
+          "https://files.catbox.moe/00y776.jpg",
+          "https://files.catbox.moe/v3ti7x.jpg",
+          "https://files.catbox.moe/vj7kxe.jpg",
+          "https://files.catbox.moe/9m17ur.jpg",
+          "https://files.catbox.moe/guzpj0.jpg",
+          "https://files.catbox.moe/te7cv9.jpg",
+          "https://files.catbox.moe/vcqaro.jpg",
+          "https://files.catbox.moe/smyzsn.jpg",
+          "https://files.catbox.moe/r5nqni.jpg",
+          "https://files.catbox.moe/o3wwks.jpg",
+          "https://files.catbox.moe/its0zr.jpg",
+          "https://files.catbox.moe/p2uv66.jpg",
+          "https://files.catbox.moe/ra04nf.jpg",
+          "https://files.catbox.moe/u52lk2.jpg",
+          "https://files.catbox.moe/m26ckb.jpg",
+          "https://files.catbox.moe/53oa6w.jpg",
+          "https://files.catbox.moe/8g04b0.jpg",
+          "https://files.catbox.moe/qulhdm.jpg",
+          "https://files.catbox.moe/yovki5.jpg",
+          "https://files.catbox.moe/w1hfpx.jpg",
+          "https://files.catbox.moe/st7pcu.jpg",
+          "https://files.catbox.moe/sic7gv.jpg"
+        ]
+      }
     }
   },
   "extra_info": {
     "catbox_albums": {
       "Tower of God - 2 Temporada - Cap. 000": "https://catbox.moe/c/xfbt9w",
-      "Tower of God - 2 Temporada - Cap. 001": "https://catbox.moe/c/8t3ff2"
+      "Tower of God - 2 Temporada - Cap. 001": "https://catbox.moe/c/8t3ff2",
+      "Tower of God - 2 Temporada - Cap. 006": "https://catbox.moe/c/tuu98o"
     }
   }
 }
