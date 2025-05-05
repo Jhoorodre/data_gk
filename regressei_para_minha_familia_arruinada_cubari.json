@@ -32,8 +32,11 @@
       "volume": ""
     },
     "002": {
+      "title": "Capítulo 02",
+      "volume": "",
+      "last_updated": "1746415547",
       "groups": {
-        "": [
+        "Gikamura": [
           "https://files.catbox.moe/gtb11t.jpg",
           "https://files.catbox.moe/c1e8s7.jpg",
           "https://files.catbox.moe/qfhk05.jpg",
@@ -53,10 +56,7 @@
           "https://files.catbox.moe/l0728a.jpg",
           "https://files.catbox.moe/d52l77.jpg"
         ]
-      },
-      "last_updated": "1746161769",
-      "title": "Capítulo 002",
-      "volume": ""
+      }
     },
     "003": {
       "groups": {
@@ -104,11 +104,15 @@
     "catbox_albums": {
       "Regressei para Minha Familia Arruinada - Cap. 001": "https://catbox.moe/c/alhw26",
       "Regressei para Minha Familia Arruinada - Cap. 002": "https://catbox.moe/c/u49eo2",
-      "Regressei para Minha Familia Arruinada - Cap. 003": "https://catbox.moe/c/vlcry7"
+      "Regressei para Minha Familia Arruinada - Cap. 003": "https://catbox.moe/c/vlcry7",
+      "Regressei Para Minha Familia Arruinada - Cap. 002": "https://catbox.moe/c/opdrhl"
     }
   },
   "genres": "",
-  "group": "",
-  "status": "",
-  "title": "Regressei para Minha Familia Arruinada"
+  "group": "Gikamura",
+  "status": "Finalizado",
+  "title": "Regressei Para Minha Familia Arruinada",
+  "cover_url": "https://cdn.myanimelist.net/images/manga/2/275379l.jpg",
+  "chapter_title": "Capítulo 02",
+  "timestamp": "1746415417"
 }
