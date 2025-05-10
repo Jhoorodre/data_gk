@@ -1,0 +1,19 @@
+title Exemplo de Mangá
+author Jhonnatta Rodrigues
+description Um teste de YAML para Cubari.moe
+language pt-br
+chapters
+  1
+    title Capítulo 1
+    volume 1
+    groups
+      Gikamura
+        - httpsfiles.catbox.moeexemplo1_pg1.jpg
+        - httpsfiles.catbox.moeexemplo1_pg2.jpg
+  2
+    title Capítulo 2
+    volume 1
+    groups
+      Gikamura
+        - httpsfiles.catbox.moeexemplo2_pg1.jpg
+        - httpsfiles.catbox.moeexemplo2_pg2.jpg
