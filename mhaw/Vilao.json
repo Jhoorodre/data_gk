@@ -1,8 +1,8 @@
 {
   "title": "Vilão",
-  "description": "",
-  "artist": "SIU",
-  "author": "",
+  "description": "TESTE",
+  "artist": "AB",
+  "author": "DV",
   "cover": "",
   "status": "Em Andamento",
   "chapters": {
@@ -20,12 +20,9 @@
     "001": {
       "title": "cap 2",
       "volume": "",
-      "last_updated": "215448",
+      "last_updated": "323152",
       "groups": {
-        "default": [
-          "https://files.catbox.moe/01ov8w.webp",
-          "https://files.catbox.moe/s8ecyj.jpg"
-        ]
+        "default": []
       }
     }
   }
