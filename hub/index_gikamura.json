@@ -6,7 +6,7 @@
   },
   "meta": {
     "version": "1.0.0",
-    "lastUpdated": "2025-07-13T15:08:00.621665",
+    "lastUpdated": "2025-07-13T15:20:08.275658",
     "language": "pt-BR",
     "region": "BR",
     "updateFrequency": "weekly",
@@ -18,18 +18,18 @@
     "subtitle": "gikamura",
     "slug": "gikamura",
     "description": "GIKA GIKA ",
-    "disclaimer": "Lembre-se sempre de apoiar o autor oficial!",
+    "disclaimer": "Lembre-se sempre de apoiar os autores oficiais! Se a obra for lançada oficialmente no Brasil, compre e incentive o trabalho original.",
     "team": {
       "name": "gikamura",
       "type": "scanlation",
       "status": "active",
       "founded": "2024",
       "members": {
-        "total": 1,
-        "translators": 1,
-        "editors": 0,
-        "typesetters": 0,
-        "quality_assurance": 0
+        "total": 6,
+        "translators": 3,
+        "editors": 2,
+        "typesetters": 1,
+        "quality_assurance": 1
       },
       "contact": "contato@exemplo.com"
     },
@@ -50,20 +50,20 @@
       "author": {
         "name": "Kibodeu Manse",
         "originalName": "Kibodeu Manse",
-        "nationality": ""
+        "nationality": "JP"
       },
       "publication": {
-        "year": 0,
-        "publisher": "",
-        "originalLanguage": ""
+        "year": 2020,
+        "publisher": "Kodansha",
+        "originalLanguage": "ja"
       },
       "status": {
         "translation": "completed",
         "original": "completed",
-        "lastUpdated": "2025-07-13T15:08:00.597213"
+        "lastUpdated": "2025-07-13T15:20:08.255324"
       },
       "type": "manga",
-      "demographics": "",
+      "demographics": "seinen",
       "genres": [],
       "tags": [],
       "cover": {
@@ -79,8 +79,8 @@
         "status": "completed"
       },
       "rating": {
-        "community": 0.0,
-        "totalVotes": 0
+        "community": 4.6,
+        "totalVotes": 50
       },
       "data": {
         "url": "",
@@ -98,20 +98,20 @@
       "author": {
         "name": "SIU",
         "originalName": "SIU",
-        "nationality": ""
+        "nationality": "KR"
       },
       "publication": {
-        "year": 0,
-        "publisher": "",
-        "originalLanguage": ""
+        "year": 2010,
+        "publisher": "LINE Webtoon",
+        "originalLanguage": "ko"
       },
       "status": {
         "translation": "ongoing",
         "original": "ongoing",
-        "lastUpdated": "2025-07-13T15:08:00.598372"
+        "lastUpdated": "2025-07-13T15:20:08.256189"
       },
-      "type": "manga",
-      "demographics": "",
+      "type": "manhwa",
+      "demographics": "seinen",
       "genres": [],
       "tags": [],
       "cover": {
@@ -127,8 +127,8 @@
         "status": "ongoing"
       },
       "rating": {
-        "community": 0.0,
-        "totalVotes": 0
+        "community": 4.5,
+        "totalVotes": 55
       },
       "data": {
         "url": "",
@@ -146,20 +146,20 @@
       "author": {
         "name": "SIU",
         "originalName": "SIU",
-        "nationality": ""
+        "nationality": "KR"
       },
       "publication": {
-        "year": 0,
-        "publisher": "",
-        "originalLanguage": ""
+        "year": 2010,
+        "publisher": "LINE Webtoon",
+        "originalLanguage": "ko"
       },
       "status": {
         "translation": "completed",
         "original": "completed",
-        "lastUpdated": "2025-07-13T15:08:00.600971"
+        "lastUpdated": "2025-07-13T15:20:08.257860"
       },
-      "type": "manga",
-      "demographics": "",
+      "type": "manhwa",
+      "demographics": "seinen",
       "genres": [],
       "tags": [],
       "cover": {
@@ -175,8 +175,8 @@
         "status": "completed"
       },
       "rating": {
-        "community": 0.0,
-        "totalVotes": 0
+        "community": 4.8,
+        "totalVotes": 400
       },
       "data": {
         "url": "",
@@ -194,20 +194,20 @@
       "author": {
         "name": "SIU",
         "originalName": "SIU",
-        "nationality": ""
+        "nationality": "KR"
       },
       "publication": {
-        "year": 0,
-        "publisher": "",
-        "originalLanguage": ""
+        "year": 2010,
+        "publisher": "LINE Webtoon",
+        "originalLanguage": "ko"
       },
       "status": {
         "translation": "completed",
         "original": "completed",
-        "lastUpdated": "2025-07-13T15:08:00.607401"
+        "lastUpdated": "2025-07-13T15:20:08.263909"
       },
-      "type": "manga",
-      "demographics": "",
+      "type": "manhwa",
+      "demographics": "seinen",
       "genres": [],
       "tags": [],
       "cover": {
@@ -223,8 +223,8 @@
         "status": "completed"
       },
       "rating": {
-        "community": 0.0,
-        "totalVotes": 0
+        "community": 4.8,
+        "totalVotes": 1705
       },
       "data": {
         "url": "",
@@ -242,20 +242,20 @@
       "author": {
         "name": "SIU",
         "originalName": "SIU",
-        "nationality": ""
+        "nationality": "KR"
       },
       "publication": {
-        "year": 0,
-        "publisher": "",
-        "originalLanguage": ""
+        "year": 2010,
+        "publisher": "LINE Webtoon",
+        "originalLanguage": "ko"
       },
       "status": {
         "translation": "completed",
         "original": "completed",
-        "lastUpdated": "2025-07-13T15:08:00.617334"
+        "lastUpdated": "2025-07-13T15:20:08.271357"
       },
-      "type": "manga",
-      "demographics": "",
+      "type": "manhwa",
+      "demographics": "seinen",
       "genres": [],
       "tags": [],
       "cover": {
@@ -271,8 +271,8 @@
         "status": "completed"
       },
       "rating": {
-        "community": 0.0,
-        "totalVotes": 0
+        "community": 4.8,
+        "totalVotes": 1185
       },
       "data": {
         "url": "",
@@ -290,20 +290,20 @@
       "author": {
         "name": "gggg",
         "originalName": "gggg",
-        "nationality": ""
+        "nationality": "JP"
       },
       "publication": {
-        "year": 0,
-        "publisher": "",
-        "originalLanguage": ""
+        "year": 2020,
+        "publisher": "Kodansha",
+        "originalLanguage": "ja"
       },
       "status": {
         "translation": "ongoing",
         "original": "ongoing",
-        "lastUpdated": "2025-07-13T15:08:00.620280"
+        "lastUpdated": "2025-07-13T15:20:08.274197"
       },
       "type": "manga",
-      "demographics": "",
+      "demographics": "seinen",
       "genres": [],
       "tags": [],
       "cover": {
@@ -319,8 +319,8 @@
         "status": "ongoing"
       },
       "rating": {
-        "community": 0.0,
-        "totalVotes": 0
+        "community": 4.5,
+        "totalVotes": 50
       },
       "data": {
         "url": "",
@@ -340,26 +340,28 @@
       "totalPages": 13620
     },
     "team": {
-      "totalMembers": 1,
-      "activeMembers": 1,
+      "totalMembers": 6,
+      "activeMembers": 5,
       "roles": {
-        "translators": 1,
-        "editors": 0,
-        "typesetters": 0,
-        "quality_assurance": 0
+        "translators": 3,
+        "editors": 2,
+        "typesetters": 1,
+        "quality_assurance": 1
       }
     },
     "community": {
-      "totalFollowers": 0,
-      "activeUsers": 0,
-      "averageRating": 4.5,
-      "totalVotes": 0
+      "totalFollowers": 300,
+      "activeUsers": 180,
+      "averageRating": 4.8,
+      "totalVotes": 3445
     },
     "content": {
-      "totalFileSize": "0MB",
+      "totalFileSize": "340.5MB",
       "averageChapterSize": "32KB",
       "supportedFormats": [
-        "json"
+        "json",
+        "cbz",
+        "pdf"
       ]
     }
   },
@@ -380,10 +382,11 @@
   "technical": {
     "api": {
       "version": "1.0",
-      "baseUrl": "",
+      "baseUrl": "https://cdn.jsdelivr.net/gh/user/repo@main/",
       "endpoints": {
         "hub": "hub.json",
-        "series": "series/{id}.json"
+        "series": "series/{id}.json",
+        "chapters": "series/{id}/chapters.json"
       }
     },
     "cache": {
