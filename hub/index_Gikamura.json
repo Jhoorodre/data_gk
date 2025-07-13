@@ -1,5 +1,5 @@
 {
-  "json_schema": {
+  "schema": {
     "version": "2.0",
     "format": "application/json",
     "encoding": "utf-8"
