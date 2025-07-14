@@ -4,7 +4,9 @@
   "hub": {
     "id": "tog-brasil-hub",
     "name": "Tower of God Brasil",
-    "desc": "Scanlation Oficial Brasileira",
+    "cover": "https://files.catbox.moe/y8t3n2.jpg",
+    "desc": "Bem-vindo ao Tower of God Brasil! Somos um grupo de fãs apaixonados, dedicados a trazer a épica jornada de Baam e seus companheiros para o público brasileiro com traduções de alta qualidade, feitas com muito cuidado e respeito pela obra original de S.I.U.\n\nNosso objetivo é compartilhar o amor por este universo incrível e garantir que mais pessoas possam escalar a Torre conosco. Todo o nosso trabalho é voluntário e sem fins lucrativos.",
+    "disclaimer": "Lembre-se sempre de apoiar o autor! Se Tower of God for lançado oficialmente no Brasil, compre e incentive o trabalho de S.I.U.",
     "lang": "pt-BR",
     "repo": "https://github.com/usuario/repo"
   },
