@@ -1,0 +1,62 @@
+{
+  "title": "Arquiteto de Dungeons",
+  "description": "Kang Chiwoo perdeu sua vida em um acidente e reencarnou como o filho do grande rei demônio em outro mundo. Diferente de sua última vida como um designer de mapas, agora ele é um perdedor chamado Kella. Entretanto, em um mundo onde a magia existe e percebendo os poderes adormecidos de Kella, Chiwoo decidiu alcançar seu objetivo de criar sua própria masmorra. Conseguirá ele alcançar o objetivo que não conseguiu em sua última vida enquanto se defende de seus irmãos que estão constantemente tentando matá-lo, das incontáveis ameaças à sua vida e da pressão daqueles à sua volta que o querem morto?",
+  "artist": "Go, Yeong-Hun",
+  "author": "Pop",
+  "cover": "https://files.catbox.moe/j9x399.webp",
+  "status": "Em Andamento",
+  "chapters": {
+    "001": {
+      "title": "001",
+      "volume": "1",
+      "last_updated": "placeholder_timestamp_1",
+      "groups": {
+        "MediocreToons/SussyScans": [
+          "https://buzzheavier.com/4d1sfqoobzhq/preview",
+          "https://buzzheavier.com/xl62e2u887fj/preview",
+          "https://buzzheavier.com/80k9inoewtz3/preview",
+          "https://buzzheavier.com/wabyx4j8cshd/preview",
+          "https://buzzheavier.com/zex09j21wl6s/preview",
+          "https://buzzheavier.com/04e88t6ai8fw/preview",
+          "https://buzzheavier.com/n1deovzzewat/preview",
+          "https://buzzheavier.com/wmeyhq9tiz4h/preview",
+          "https://buzzheavier.com/jx4m17umzoxi/preview",
+          "https://buzzheavier.com/hnz6ybh6t7t6/preview",
+          "https://buzzheavier.com/6flganvtom85/preview",
+          "https://buzzheavier.com/tklofzvk6b6t/preview",
+          "https://buzzheavier.com/gmx92vu7goaa/preview",
+          "https://buzzheavier.com/m7cr9bji4lh5/preview",
+          "https://buzzheavier.com/naovpnwit0l0/preview",
+          "https://buzzheavier.com/q59ro1nkixqx/preview",
+          "https://buzzheavier.com/m9dqgymz6s1y/preview",
+          "https://buzzheavier.com/8pywwgvvpati/preview",
+          "https://buzzheavier.com/qcgax3jgpv2m/preview",
+          "https://buzzheavier.com/08euzljoxxb3/preview",
+          "https://buzzheavier.com/ifh7cz6qbahi/preview"
+        ]
+      }
+    },
+    "002": {
+      "title": "placeholder_chapter_title_2",
+      "volume": "",
+      "last_updated": "placeholder_timestamp_2",
+      "groups": {
+        "placeholder_group_name_1": [
+          "https://placeholder.url/page_1.webp",
+          "https://placeholder.url/page_2.webp"
+        ]
+      }
+    },
+    "003": {
+      "title": "placeholder_chapter_title_3",
+      "volume": "",
+      "last_updated": "placeholder_timestamp_3",
+      "groups": {
+        "placeholder_group_name_1": [
+          "https://placeholder.url/page_1.webp",
+          "https://placeholder.url/page_2.webp"
+        ]
+      }
+    }
+  }
+}
