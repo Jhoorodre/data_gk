@@ -12,35 +12,7 @@
       "volume": "",
       "last_updated": "1755561600",
       "groups": {
-        "default": [
-          "https://files.catbox.moe/ii4e4j.webp",
-          "https://files.catbox.moe/z8idvf.webp",
-          "https://files.catbox.moe/3eidjw.webp",
-          "https://files.catbox.moe/74u8kp.webp",
-          "https://files.catbox.moe/lia7kf.webp",
-          "https://files.catbox.moe/8tybno.webp",
-          "https://files.catbox.moe/f5no91.webp",
-          "https://files.catbox.moe/zg9t8g.webp",
-          "https://files.catbox.moe/1p43op.webp",
-          "https://files.catbox.moe/8evfhq.webp",
-          "https://files.catbox.moe/vdz22q.webp",
-          "https://files.catbox.moe/nopivd.webp",
-          "https://files.catbox.moe/9pe4ho.webp",
-          "https://files.catbox.moe/c7db6u.webp",
-          "https://files.catbox.moe/xgaku0.webp",
-          "https://files.catbox.moe/5e3ap0.webp",
-          "https://files.catbox.moe/1mrgok.webp",
-          "https://files.catbox.moe/hjinms.webp",
-          "https://files.catbox.moe/45yrpy.webp",
-          "https://files.catbox.moe/esnby9.webp",
-          "https://files.catbox.moe/vhlml1.webp",
-          "https://files.catbox.moe/tllv0l.webp",
-          "https://files.catbox.moe/iwftk3.webp",
-          "https://files.catbox.moe/zbgaev.webp",
-          "https://files.catbox.moe/b221d7.webp",
-          "https://files.catbox.moe/xiksqh.webp",
-          "https://files.catbox.moe/6kqfk1.webp"
-        ]
+        "default": []
       }
     }
   }
