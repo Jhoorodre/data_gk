@@ -1,0 +1,59 @@
+{
+  "mangas": {
+    "tower_of_god": {
+      "title": "Tower of God",
+      "chapters": [
+        {
+          "id": 1001,
+          "title": "Parte 1 – O Irregular",
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9UT0ctQnJhc2lsL3JlZnMvaGVhZHMvbWFpbi9Ub3dlcl9vZl9Hb2RfUGFydGVfMV9PX0lycmVndWxhci5qc29u/"
+        },
+        {
+          "id": 1002,
+          "title": "Parte 2 – O Retorno do Príncipe",
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9UT0ctQnJhc2lsL3JlZnMvaGVhZHMvbWFpbi9Ub3dlcl9vZl9Hb2RfUGFydGVfMl8lRTIlODAlOTNfT19SZXRvcm5vX2RvX1ByJUMzJUFEbmNpcGUuanNvbg/"
+        },
+        {
+          "id": 1003,
+          "title": "Parte 3 – A Batalha entre os Líderes das Famílias",
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9UT0ctQnJhc2lsL3JlZnMvaGVhZHMvbWFpbi9Ub3dlcl9vZl9Hb2RfUGFydGVfM18lRTIlODAlOTNfQV9CYXRhbGhhX2VudHJlX29zX0wlQzMlQURkZXJlc19kYXNfRmFtJUMzJUFEbGlhcy5qc29u/"
+        },
+        {
+          "id": 1004,
+          "title": "A Ascensão de Urek Mazzino",
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9UT0ctQnJhc2lsL3JlZnMvaGVhZHMvbWFpbi9Ub3dlcl9vZl9Hb2RfQV9Bc2NlbnMlQzMlQTNvX2RlX1VyZWtfTWF6emluby5qc29u/"
+        }
+      ]
+    },
+    "i_killed_an_academy_player": {
+      "title": "I Killed an Academy Player",
+      "chapters": [
+        {
+          "id": 2001,
+          "title": "I Killed an Academy Player",
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9taGF3L0lfS2lsbGVkX2FuX0FjYWRlbXlfUGxheWVyLmpzb24/"
+        }
+      ]
+    },
+    "fated_to_be_loved_by_villains": {
+      "title": "Fated to Be Loved by Villains",
+      "chapters": [
+        {
+          "id": 3001,
+          "title": "Fated to Be Loved by Villains",
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9taGF3L0ZhdGVkX3RvX0JlX0xvdmVkX2J5X1ZpbGxhaW5zLmpzb24/"
+        }
+      ]
+    },
+    "witch_watch": {
+      "title": "Witch Watch",
+      "chapters": [
+        {
+          "id": 4001,
+          "title": "Witch Watch",
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvV2l0Y2hfV2F0Y2guanNvbg/"
+        }
+      ]
+    }
+  }
+}
