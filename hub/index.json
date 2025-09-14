@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "lastUpdated": 1726260000,
-    "totalMangas": 90,
-    "version": "1.0.0"
+  "lastUpdated": 1757824563,
+    "totalMangas": 93,
+    "version": "1.0.1"
   },
   "mangas": {
-    "tower_of_god": {
-      "title": "Tower of God",
+    "Tower of God_parte_1_o_irregular": {
+      "title": "Tower of God - Parte 1 – O Irregular",
       "chapters": [
         {
           "id": 1001,
@@ -14,24 +14,39 @@
           "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9UT0ctQnJhc2lsL3JlZnMvaGVhZHMvbWFpbi9Ub3dlcl9vZl9Hb2RfUGFydGVfMV9PX0lycmVndWxhci5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.myanimelist.net/images/manga/2/223694.jpg"
-        },
+        }
+      ]
+    },
+    "Tower_of_God_parte_2_o_retorno_do_principe": {
+      "title": "Tower of God - Parte 2 – O Retorno do Príncipe",
+      "chapters": [
         {
           "id": 1002,
           "title": "Parte 2 – O Retorno do Príncipe",
           "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9UT0ctQnJhc2lsL3JlZnMvaGVhZHMvbWFpbi9Ub3dlcl9vZl9Hb2RfUGFydGVfMl8lRTIlODAlOTNfT19SZXRvcm5vX2RvX1ByJUMzJUFEbmNpcGUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://files.catbox.moe/f6icfp.jpg"
-        },
+        }
+      ]
+    },
+    "Tower_of_God_parte_3_a_batalha_entre_os_lideres_das_familias": {
+      "title": "Tower of God - Parte 3 – A Batalha entre os Líderes das Famílias",
+      "chapters": [
         {
           "id": 1003,
           "title": "Parte 3 – A Batalha entre os Líderes das Famílias",
           "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9UT0ctQnJhc2lsL3JlZnMvaGVhZHMvbWFpbi9Ub3dlcl9vZl9Hb2RfUGFydGVfM18lRTIlODAlOTNfQV9CYXRhbGhhX2VudHJlX29zX0wlQzMlQURkZXJlc19kYXNfRmFtJUMzJUFEbGlhcy5qc29u/",
           "type": "manhwa",
           "cover_url": "https://files.catbox.moe/hzj0y9.jpg"
-        },
+        }
+      ]
+    },
+    "Tower_of_God_ascensao_de_urek_mazzino": {
+      "title": "Tower of God - A Ascensão de Urek Mazzino",
+      "chapters": [
         {
           "id": 1004,
-          "title": "A Ascensão de Urek Mazzino",
+          "title": "Tower of God - A Ascensão de Urek Mazzino",
           "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9UT0ctQnJhc2lsL3JlZnMvaGVhZHMvbWFpbi9Ub3dlcl9vZl9Hb2RfQV9Bc2NlbnMlQzMlQTNvX2RlX1VyZWtfTWF6emluby5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.myanimelist.net/images/manga/2/324137l.jpg"
@@ -1041,7 +1056,8 @@
           "id": 5082,
           "title": "Uragirareta Boukensha  Andeddo Toshite Yomigaeri Musou Suru",
           "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvVXJhZ2lyYXJldGFfQm91a2Vuc2hhX19BbmRlZGRvX1Rvc2hpdGVfWW9taWdhZXJpX011c291X1N1cnUuanNvbg/",
-          "type": "manga"
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/03/Uragirareta-Boukensha-Andeddo-Toshite-Yomigaeri-Musou-Suru.jpg?fit=840%2C1200&ssl=1"
         }
       ]
     },
