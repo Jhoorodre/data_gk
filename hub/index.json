@@ -1,4 +1,9 @@
 {
+  "metadata": {
+    "lastUpdated": 1726260000,
+    "totalMangas": 90,
+    "version": "1.0.0"
+  },
   "mangas": {
     "tower_of_god": {
       "title": "Tower of God",
@@ -6,22 +11,26 @@
         {
           "id": 1001,
           "title": "Parte 1 – O Irregular",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9UT0ctQnJhc2lsL3JlZnMvaGVhZHMvbWFpbi9Ub3dlcl9vZl9Hb2RfUGFydGVfMV9PX0lycmVndWxhci5qc29u/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9UT0ctQnJhc2lsL3JlZnMvaGVhZHMvbWFpbi9Ub3dlcl9vZl9Hb2RfUGFydGVfMV9PX0lycmVndWxhci5qc29u/",
+          "type": "manhwa"
         },
         {
           "id": 1002,
           "title": "Parte 2 – O Retorno do Príncipe",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9UT0ctQnJhc2lsL3JlZnMvaGVhZHMvbWFpbi9Ub3dlcl9vZl9Hb2RfUGFydGVfMl8lRTIlODAlOTNfT19SZXRvcm5vX2RvX1ByJUMzJUFEbmNpcGUuanNvbg/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9UT0ctQnJhc2lsL3JlZnMvaGVhZHMvbWFpbi9Ub3dlcl9vZl9Hb2RfUGFydGVfMl8lRTIlODAlOTNfT19SZXRvcm5vX2RvX1ByJUMzJUFEbmNpcGUuanNvbg/",
+          "type": "manhwa"
         },
         {
           "id": 1003,
           "title": "Parte 3 – A Batalha entre os Líderes das Famílias",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9UT0ctQnJhc2lsL3JlZnMvaGVhZHMvbWFpbi9Ub3dlcl9vZl9Hb2RfUGFydGVfM18lRTIlODAlOTNfQV9CYXRhbGhhX2VudHJlX29zX0wlQzMlQURkZXJlc19kYXNfRmFtJUMzJUFEbGlhcy5qc29u/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9UT0ctQnJhc2lsL3JlZnMvaGVhZHMvbWFpbi9Ub3dlcl9vZl9Hb2RfUGFydGVfM18lRTIlODAlOTNfQV9CYXRhbGhhX2VudHJlX29zX0wlQzMlQURkZXJlc19kYXNfRmFtJUMzJUFEbGlhcy5qc29u/",
+          "type": "manhwa"
         },
         {
           "id": 1004,
           "title": "A Ascensão de Urek Mazzino",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9UT0ctQnJhc2lsL3JlZnMvaGVhZHMvbWFpbi9Ub3dlcl9vZl9Hb2RfQV9Bc2NlbnMlQzMlQTNvX2RlX1VyZWtfTWF6emluby5qc29u/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9UT0ctQnJhc2lsL3JlZnMvaGVhZHMvbWFpbi9Ub3dlcl9vZl9Hb2RfQV9Bc2NlbnMlQzMlQTNvX2RlX1VyZWtfTWF6emluby5qc29u/",
+          "type": "manhwa"
         }
       ]
     },
@@ -31,7 +40,8 @@
         {
           "id": 2001,
           "title": "I Killed an Academy Player",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9taGF3L0lfS2lsbGVkX2FuX0FjYWRlbXlfUGxheWVyLmpzb24/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9taGF3L0lfS2lsbGVkX2FuX0FjYWRlbXlfUGxheWVyLmpzb24/",
+          "type": "manhwa"
         }
       ]
     },
@@ -41,7 +51,8 @@
         {
           "id": 3001,
           "title": "Fated to Be Loved by Villains",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9taGF3L0ZhdGVkX3RvX0JlX0xvdmVkX2J5X1ZpbGxhaW5zLmpzb24/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9taGF3L0ZhdGVkX3RvX0JlX0xvdmVkX2J5X1ZpbGxhaW5zLmpzb24/",
+          "type": "manhwa"
         }
       ]
     },
@@ -51,8 +62,10 @@
         {
           "id": 4001,
           "title": "Witch Watch",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvV2l0Y2hfV2F0Y2guanNvbg/"
-          }
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvV2l0Y2hfV2F0Y2guanNvbg/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/06/Witch-Watch-Manga.jpg?fit=600%2C800&ssl=1"
+        }
       ]
     },
     "day_walker": {
@@ -61,7 +74,9 @@
         {
           "id": 5001,
           "title": "Day Walker",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9taGF3L0RheV9XYWxrZXIuanNvbg/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9taGF3L0RheV9XYWxrZXIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/01/Day-Walker.jpg?fit=1000%2C1298&ssl=1"
         }
       ]
     },
@@ -71,8 +86,10 @@
         {
           "id": 5002,
           "title": "“Okaeri, Papa”",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2Ev4oCcT2thZXJpX19QYXBh4oCdLmpzb24/"
-          }
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2Ev4oCcT2thZXJpX19QYXBh4oCdLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/03/Okaeri-Papa.jpg?fit=1000%2C1422&ssl=1"
+        }
       ]
     },
     "00_day_of_summer_holiday": {
@@ -81,7 +98,9 @@
         {
           "id": 5004,
           "title": "00 Day of Summer Holiday",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvMDBfRGF5X29mX1N1bW1lcl9Ib2xpZGF5Lmpzb24/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvMDBfRGF5X29mX1N1bW1lcl9Ib2xpZGF5Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/02/00-Day-of-Summer-Holiday.jpg?fit=920%2C1350&ssl=1"
         }
       ]
     },
@@ -91,7 +110,9 @@
         {
           "id": 5005,
           "title": "1-nen A-gumi no Monster",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvMS1uZW5fQS1ndW1pX25vX01vbnN0ZXIuanNvbg/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvMS1uZW5fQS1ndW1pX25vX01vbnN0ZXIuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/02/1-nen-A-gumi-no-Monster.jpg?fit=1000%2C1421&ssl=1"
         }
       ]
     },
@@ -101,7 +122,9 @@
         {
           "id": 5006,
           "title": "10-manbun no 1",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvMTAtbWFuYnVuX25vXzEuanNvbg/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvMTAtbWFuYnVuX25vXzEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/02/10-manbun-no-1.jpg?fit=600%2C942&ssl=1"
         }
       ]
     },
@@ -111,7 +134,9 @@
         {
           "id": 5007,
           "title": "100-man no Inochi no Ue ni Ore wa Tatteiru",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvMTAwLW1hbl9ub19Jbm9jaGlfbm9fVWVfbmlfT3JlX3dhX1RhdHRlaXJ1Lmpzb24/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvMTAwLW1hbl9ub19Jbm9jaGlfbm9fVWVfbmlfT3JlX3dhX1RhdHRlaXJ1Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/01/100-man-no-Inochi-no-Ue-ni-Ore-wa-Tatteiru.jpg?fit=1000%2C1495&ssl=1"
         }
       ]
     },
@@ -121,7 +146,9 @@
         {
           "id": 5008,
           "title": "2.5 Jigen no Ririsa",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvMi41X0ppZ2VuX25vX1JpcmlzYS5qc29u/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvMi41X0ppZ2VuX25vX1JpcmlzYS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/01/imagem_2025-01-02_201730958.png?fit=1765%2C2509&ssl=1"
         }
       ]
     },
@@ -131,7 +158,9 @@
         {
           "id": 5009,
           "title": "Abandoned  Tsuyosugite Buki ga Kowareru Yuusha to Buki Shokunin no Elf",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQWJhbmRvbmVkX19Uc3V5b3N1Z2l0ZV9CdWtpX2dhX0tvd2FyZXJ1X1l1dXNoYV90b19CdWtpX1Nob2t1bmluX25vX0VsZi5qc29u/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQWJhbmRvbmVkX19Uc3V5b3N1Z2l0ZV9CdWtpX2dhX0tvd2FyZXJ1X1l1dXNoYV90b19CdWtpX1Nob2t1bmluX25vX0VsZi5qc29u/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/01/Abandoned-Tsuyosugite-Buki-ga-Kowareru-Yuusha-to-Buki-Shokunin-no-Elf-1.jpg?fit=1000%2C1409&ssl=1"
         }
       ]
     },
@@ -141,7 +170,9 @@
         {
           "id": 5010,
           "title": "Again!!",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQWdhaW4hIS5qc29u/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQWdhaW4hIS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2024/12/Again-v13.jpg?fit=720%2C1037&ssl=1"
         }
       ]
     },
@@ -151,7 +182,9 @@
         {
           "id": 5011,
           "title": "Aisare Teru Baai Janai no",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQWlzYXJlX1RlcnVfQmFhaV9KYW5haV9uby5qc29u/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQWlzYXJlX1RlcnVfQmFhaV9KYW5haV9uby5qc29u/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/04/Aisare-Teru-Baai-Janai-no.jpg?fit=1000%2C1298&ssl=1"
         }
       ]
     },
@@ -161,7 +194,9 @@
         {
           "id": 5012,
           "title": "Aishiteru Game wo Owarasetai",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQWlzaGl0ZXJ1X0dhbWVfd29fT3dhcmFzZXRhaS5qc29u/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQWlzaGl0ZXJ1X0dhbWVfd29fT3dhcmFzZXRhaS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/03/Aishiteru-Game-wo-Owarasetai.jpg?fit=1000%2C1417&ssl=1"
         }
       ]
     },
@@ -171,7 +206,9 @@
         {
           "id": 5013,
           "title": "Akagi  The Genius Who Fell Into Darkness",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQWthZ2lfX1RoZV9HZW5pdXNfV2hvX0ZlbGxfSW50b19EYXJrbmVzcy5qc29u/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQWthZ2lfX1RoZV9HZW5pdXNfV2hvX0ZlbGxfSW50b19EYXJrbmVzcy5qc29u/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/01/Akagi-The-Genius-Who-Fell-Into-Darkness.jpg?fit=844%2C1200&ssl=1"
         }
       ]
     },
@@ -181,7 +218,9 @@
         {
           "id": 5014,
           "title": "Akanabe-sensei wa Tereshirazu",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQWthbmFiZS1zZW5zZWlfd2FfVGVyZXNoaXJhenUuanNvbg/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQWthbmFiZS1zZW5zZWlfd2FfVGVyZXNoaXJhenUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/03/Akanabe-sensei-wa-Tereshirazu.jpg?fit=1000%2C1572&ssl=1"
         }
       ]
     },
@@ -191,7 +230,9 @@
         {
           "id": 5015,
           "title": "Akane-banashi",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQWthbmUtYmFuYXNoaS5qc29u/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQWthbmUtYmFuYXNoaS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/03/Akane-banashi.jpg?fit=762%2C1200&ssl=1"
         }
       ]
     },
@@ -201,7 +242,9 @@
         {
           "id": 5016,
           "title": "Akazukin to Yasashii Ookami",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQWthenVraW5fdG9fWWFzYXNoaWlfT29rYW1pLmpzb24/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQWthenVraW5fdG9fWWFzYXNoaWlfT29rYW1pLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/02/Akazukin-to-Yasashii-Ookami.jpg?fit=1000%2C1489&ssl=1"
         }
       ]
     },
@@ -211,7 +254,9 @@
         {
           "id": 5017,
           "title": "AKB49  Renai Kinshi Jourei",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQUtCNDlfX1JlbmFpX0tpbnNoaV9Kb3VyZWkuanNvbg/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQUtCNDlfX1JlbmFpX0tpbnNoaV9Kb3VyZWkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/07/AKB49-Renai-Kinshi-Jourei-Manga-Free.jpg?fit=600%2C800&ssl=1"
         }
       ]
     },
@@ -221,7 +266,9 @@
         {
           "id": 5018,
           "title": "Akuma de Fukei!",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQWt1bWFfZGVfRnVrZWkhLmpzb24/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQWt1bWFfZGVfRnVrZWkhLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/03/Akuma-de-Fukei.jpg?fit=1000%2C1430&ssl=1"
         }
       ]
     },
@@ -231,7 +278,9 @@
         {
           "id": 5019,
           "title": "Akuyaku Reijou no Oyome-sama",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQWt1eWFrdV9SZWlqb3Vfbm9fT3lvbWUtc2FtYS5qc29u/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQWt1eWFrdV9SZWlqb3Vfbm9fT3lvbWUtc2FtYS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/07/Akuyaku-Reijou-no-Oyome-sama-Manga-Free.jpg?fit=600%2C800&ssl=1"
         }
       ]
     },
@@ -241,7 +290,9 @@
         {
           "id": 5020,
           "title": "Alluring Hunk in Women Wonderland",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQWxsdXJpbmdfSHVua19pbl9Xb21lbl9Xb25kZXJsYW5kLmpzb24/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQWxsdXJpbmdfSHVua19pbl9Xb21lbl9Xb25kZXJsYW5kLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/04/Alluring-Hunk-in-Women-Wonderland.jpg?fit=630%2C840&ssl=1"
         }
       ]
     },
@@ -251,7 +302,9 @@
         {
           "id": 5021,
           "title": "Amagami-san Chi no Enmusubi",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQW1hZ2FtaS1zYW5fQ2hpX25vX0VubXVzdWJpLmpzb24/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQW1hZ2FtaS1zYW5fQ2hpX25vX0VubXVzdWJpLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/01/Amagami-san-Chi-no-Enmusubi.jpg?fit=1000%2C1495&ssl=1"
         }
       ]
     },
@@ -261,7 +314,9 @@
         {
           "id": 5022,
           "title": "Amano Megumi wa Suki Darake!",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQW1hbm9fTWVndW1pX3dhX1N1a2lfRGFyYWtlIS5qc29u/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQW1hbm9fTWVndW1pX3dhX1N1a2lfRGFyYWtlIS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/01/Amano-Megumi-wa-Suki-Darake-v28.jpg?fit=1303%2C2048&ssl=1"
         }
       ]
     },
@@ -271,7 +326,9 @@
         {
           "id": 5023,
           "title": "Ane no Tomodachi",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQW5lX25vX1RvbW9kYWNoaS5qc29u/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQW5lX25vX1RvbW9kYWNoaS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/07/Ane-no-Tomodachi-Manga-Free.jpg?fit=600%2C800&ssl=1"
         }
       ]
     },
@@ -281,7 +338,9 @@
         {
           "id": 5024,
           "title": "Ankoku Delta",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQW5rb2t1X0RlbHRhLmpzb24/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQW5rb2t1X0RlbHRhLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/01/Ankoku-Delta.jpg?fit=1440%2C2048&ssl=1"
         }
       ]
     },
@@ -291,7 +350,9 @@
         {
           "id": 5025,
           "title": "Ano Toki Tasukete Itadaita Monster Musume desu.",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQW5vX1Rva2lfVGFzdWtldGVfSXRhZGFpdGFfTW9uc3Rlcl9NdXN1bWVfZGVzdS4uanNvbg/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQW5vX1Rva2lfVGFzdWtldGVfSXRhZGFpdGFfTW9uc3Rlcl9NdXN1bWVfZGVzdS4uanNvbg/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/02/Ano-Toki-Tasukete-Itadaita-Monster-Musume-desu.-v1.jpg?fit=1000%2C1440&ssl=1"
         }
       ]
     },
@@ -301,7 +362,9 @@
         {
           "id": 5026,
           "title": "Aoi no Heya ni Mata Haru ga Kita",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQW9pX25vX0hleWFfbmlfTWF0YV9IYXJ1X2dhX0tpdGEuanNvbg/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQW9pX25vX0hleWFfbmlfTWF0YV9IYXJ1X2dhX0tpdGEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/05/Aoi-no-Heya-ni-Mata-Haru-ga-Kita.jpg?fit=720%2C1051&ssl=1"
         }
       ]
     },
@@ -311,7 +374,9 @@
         {
           "id": 5027,
           "title": "Arifureta Shokugyou de Sekai Saikyou",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQXJpZnVyZXRhX1Nob2t1Z3lvdV9kZV9TZWthaV9TYWlreW91Lmpzb24/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQXJpZnVyZXRhX1Nob2t1Z3lvdV9kZV9TZWthaV9TYWlreW91Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/04/Arifureta-Shokugyou-de-Sekai-Saikyou.jpg?fit=950%2C1351&ssl=1"
         }
       ]
     },
@@ -321,7 +386,9 @@
         {
           "id": 5028,
           "title": "Ase to Sekken",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQXNlX3RvX1Nla2tlbi5qc29u/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQXNlX3RvX1Nla2tlbi5qc29u/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/02/Sweat-and-Soap.jpg?fit=950%2C1351&ssl=1"
         }
       ]
     },
@@ -331,7 +398,9 @@
         {
           "id": 5029,
           "title": "Asoko de Hataraku Musubu-san",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQXNva29fZGVfSGF0YXJha3VfTXVzdWJ1LXNhbi5qc29u/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQXNva29fZGVfSGF0YXJha3VfTXVzdWJ1LXNhbi5qc29u/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/01/imagem_2025-01-02_172959073.png?fit=1445%2C2048&ssl=1"
         }
       ]
     },
@@ -341,7 +410,9 @@
         {
           "id": 5030,
           "title": "Ataerareta Skill wo Tsukatte Kasei de Isekai Bijotachi to Ichaicha shitai",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQXRhZXJhcmV0YV9Ta2lsbF93b19Uc3VrYXR0ZV9LYXNlaV9kZV9Jc2VrYWlfQmlqb3RhY2hpX3RvX0ljaGFpY2hhX3NoaXRhaS5qc29u/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQXRhZXJhcmV0YV9Ta2lsbF93b19Uc3VrYXR0ZV9LYXNlaV9kZV9Jc2VrYWlfQmlqb3RhY2hpX3RvX0ljaGFpY2hhX3NoaXRhaS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/02/Ataerareta-Skill-wo-Tsukatte-Kasei-de-Isekai-Bijotachi-to-Ichaicha-shitai.jpg?fit=1500%2C2137&ssl=1"
         }
       ]
     },
@@ -351,7 +422,9 @@
         {
           "id": 5031,
           "title": "Attack on Titan",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQXR0YWNrX29uX1RpdGFuLmpzb24/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQXR0YWNrX29uX1RpdGFuLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/01/imagem_2025-01-12_140849815.png?fit=1000%2C1500&ssl=1"
         }
       ]
     },
@@ -361,7 +434,9 @@
         {
           "id": 5032,
           "title": "Azfareo no Sobayounin",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQXpmYXJlb19ub19Tb2JheW91bmluLmpzb24/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQXpmYXJlb19ub19Tb2JheW91bmluLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/03/Azfareo-no-Sobayounin.jpg?fit=1000%2C1571&ssl=1"
         }
       ]
     },
@@ -371,7 +446,9 @@
         {
           "id": 5033,
           "title": "Azumi",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQXp1bWkuanNvbg/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQXp1bWkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/02/Azumi.jpg?fit=840%2C1200&ssl=1"
         }
       ]
     },
@@ -381,7 +458,9 @@
         {
           "id": 5034,
           "title": "Baki  New Grappler Baki",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQmFraV9fTmV3X0dyYXBwbGVyX0Jha2kuanNvbg/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQmFraV9fTmV3X0dyYXBwbGVyX0Jha2kuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/04/New-Grappler-Baki.jpg?fit=948%2C1461&ssl=1"
         }
       ]
     },
@@ -391,7 +470,9 @@
         {
           "id": 5035,
           "title": "Bakidou (2018)",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQmFraWRvdV8oMjAxOCkuanNvbg/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQmFraWRvdV8oMjAxOCkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/04/Bakidou.jpg?fit=1000%2C1544&ssl=1"
         }
       ]
     },
@@ -401,7 +482,8 @@
         {
           "id": 5036,
           "title": "Bakuage Sentai Boonboomger formation lap",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQmFrdWFnZV9TZW50YWlfQm9vbmJvb21nZXJfZm9ybWF0aW9uX2xhcF8lRTIlODAlOTNfSm91aG91eWFfbm9fWW91cl9FeWVzX09ubHkuanNvbg/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQmFrdWFnZV9TZW50YWlfQm9vbmJvb21nZXJfZm9ybWF0aW9uX2xhcF8lRTIlODAlOTNfSm91aG91eWFfbm9fWW91cl9FeWVzX09ubHkuanNvbg/",
+          "type": "manga"
         }
       ]
     },
@@ -411,7 +493,9 @@
         {
           "id": 5037,
           "title": "Be Blues! Ao ni Nare",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQmVfQmx1ZXMhX0FvX25pX05hcmUuanNvbg/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQmVfQmx1ZXMhX0FvX25pX05hcmUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/07/Be-Blues-Ao-ni-Nare-Manga-Free.jpg?fit=600%2C800&ssl=1"
         }
       ]
     },
@@ -421,7 +505,9 @@
         {
           "id": 5038,
           "title": "Berserk",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQmVyc2Vyay5qc29u/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQmVyc2Vyay5qc29u/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/01/imagem_2025-01-02_215854856.png?fit=1801%2C2560&ssl=1"
         }
       ]
     },
@@ -431,7 +517,9 @@
         {
           "id": 5039,
           "title": "Black Clover",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQmxhY2tfQ2xvdmVyLmpzb24/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQmxhY2tfQ2xvdmVyLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/01/imagem_2025-01-04_162145982.png?fit=1304%2C2048&ssl=1"
         }
       ]
     },
@@ -441,7 +529,9 @@
         {
           "id": 5040,
           "title": "Blue Lock",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQmx1ZV9Mb2NrLmpzb24/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQmx1ZV9Mb2NrLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/04/c23ebddaa6604c25ef6b47b7712b34b0.jpg?fit=400%2C598&ssl=1"
         }
       ]
     },
@@ -451,7 +541,9 @@
         {
           "id": 5041,
           "title": "Blue Lock꞉ Episode Nagi",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQmx1ZV9Mb2Nr6p6JX0VwaXNvZGVfTmFnaS5qc29u/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQmx1ZV9Mb2Nr6p6JX0VwaXNvZGVfTmFnaS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/04/Blue-Lock%EA%9E%89-Episode-Nagi.jpg?fit=1000%2C1495&ssl=1"
         }
       ]
     },
@@ -461,7 +553,9 @@
         {
           "id": 5042,
           "title": "Bocchi the Rock!",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQm9jY2hpX3RoZV9Sb2NrIS5qc29u/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQm9jY2hpX3RoZV9Sb2NrIS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/01/Bocchi-the-Rock.jpg?fit=1748%2C2480&ssl=1"
         }
       ]
     },
@@ -471,7 +565,9 @@
         {
           "id": 5043,
           "title": "Boku dake ga Shitterun daze",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQm9rdV9kYWtlX2dhX1NoaXR0ZXJ1bl9kYXplLmpzb24/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQm9rdV9kYWtlX2dhX1NoaXR0ZXJ1bl9kYXplLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/07/Boku-dake-ga-Shitterun-daze-Manga-Free.jpg?fit=600%2C800&ssl=1"
         }
       ]
     },
@@ -481,7 +577,9 @@
         {
           "id": 5044,
           "title": "Boku wa Isekai de Fuyo Mahou to Shoukan Mahou wo Tenbin ni Kakeru",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQm9rdV93YV9Jc2VrYWlfZGVfRnV5b19NYWhvdV90b19TaG91a2FuX01haG91X3dvX1RlbmJpbl9uaV9LYWtlcnUuanNvbg/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQm9rdV93YV9Jc2VrYWlfZGVfRnV5b19NYWhvdV90b19TaG91a2FuX01haG91X3dvX1RlbmJpbl9uaV9LYWtlcnUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/07/Boku-wa-Isekai-de-Fuyo-Mahou-to-Shoukan-Mahou-wo-Tenbin-ni-Kakeru-Manga-Free.jpg?fit=600%2C800&ssl=1"
         }
       ]
     },
@@ -491,7 +589,9 @@
         {
           "id": 5045,
           "title": "Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQm9yb2Jvcm9fbm9fRWxmLXNhbl93b19TaGlhd2FzZV9uaV9TdXJ1X0t1c3VyaXVyaS1zYW4uanNvbg/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQm9yb2Jvcm9fbm9fRWxmLXNhbl93b19TaGlhd2FzZV9uaV9TdXJ1X0t1c3VyaXVyaS1zYW4uanNvbg/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/03/Boroboro-no-Elf-san-wo-Shiawase-ni-Suru-Kusuriuri-san.jpg?fit=1000%2C1303&ssl=1"
         }
       ]
     },
@@ -501,7 +601,9 @@
         {
           "id": 5046,
           "title": "Boukenka ni Narou! Skill Board de Dungeon Kouryaku",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQm91a2Vua2FfbmlfTmFyb3UhX1NraWxsX0JvYXJkX2RlX0R1bmdlb25fS291cnlha3UuanNvbg/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQm91a2Vua2FfbmlfTmFyb3UhX1NraWxsX0JvYXJkX2RlX0R1bmdlb25fS291cnlha3UuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2024/12/Boukenka-ni-Narou-Skill-Board-de-Dungeon-Kouryaku-v10.jpg?fit=720%2C1026&ssl=1"
         }
       ]
     },
@@ -511,7 +613,9 @@
         {
           "id": 5047,
           "title": "Bouryoku Banzai",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQm91cnlva3VfQmFuemFpLmpzb24/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQm91cnlva3VfQmFuemFpLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/03/Bouryoku-Banzai.jpg?fit=999%2C1306&ssl=1"
         }
       ]
     },
@@ -521,7 +625,9 @@
         {
           "id": 5048,
           "title": "Centuria",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQ2VudHVyaWEuanNvbg/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQ2VudHVyaWEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/03/Centuria.jpg?fit=1000%2C1423&ssl=1"
         }
       ]
     },
@@ -531,7 +637,9 @@
         {
           "id": 5049,
           "title": "Chiyu Mahou no Machigatta Tsukaikata",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQ2hpeXVfTWFob3Vfbm9fTWFjaGlnYXR0YV9Uc3VrYWlrYXRhLmpzb24/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvQ2hpeXVfTWFob3Vfbm9fTWFjaGlnYXR0YV9Uc3VrYWlrYXRhLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/07/Chiyu-Mahou-no-Machigatta-Tsukaikata-Manga-Free.jpg?fit=600%2C800&ssl=1"
         }
       ]
     },
@@ -541,7 +649,9 @@
         {
           "id": 5050,
           "title": "Dandadan",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvRGFuZGFkYW4uanNvbg/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvRGFuZGFkYW4uanNvbg/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/01/imagem_2025-01-02_162046845.png?fit=758%2C1200&ssl=1"
         }
       ]
     },
@@ -551,7 +661,8 @@
         {
           "id": 5051,
           "title": "Danjo no Yujou wa Seiritsu suru  (Iya  Shinai!!)",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvRGFuam9fbm9fWXVqb3Vfd2FfU2Vpcml0c3Vfc3VydV9fKEl5YV9fU2hpbmFpISEpLmpzb24/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvRGFuam9fbm9fWXVqb3Vfd2FfU2Vpcml0c3Vfc3VydV9fKEl5YV9fU2hpbmFpISEpLmpzb24/",
+          "type": "manga"
         }
       ]
     },
@@ -561,7 +672,9 @@
         {
           "id": 5052,
           "title": "Girl Meets Rock!",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvR2lybF9NZWV0c19Sb2NrIS5qc29u/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvR2lybF9NZWV0c19Sb2NrIS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/01/Girl-Meets-Rock.jpg?fit=1440%2C2048&ssl=1"
         }
       ]
     },
@@ -571,7 +684,8 @@
         {
           "id": 5053,
           "title": "Haite Kudasai  Takamine-san",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvSGFpdGVfS3VkYXNhaV9fVGFrYW1pbmUtc2FuLmpzb24/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvSGFpdGVfS3VkYXNhaV9fVGFrYW1pbmUtc2FuLmpzb24/",
+          "type": "manga"
         }
       ]
     },
@@ -581,7 +695,9 @@
         {
           "id": 5054,
           "title": "Hajime no Ippo",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvSGFqaW1lX25vX0lwcG8uanNvbg/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvSGFqaW1lX25vX0lwcG8uanNvbg/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2024/12/Hajime-no-Ippo-v142.jpg?fit=720%2C1105&ssl=1"
         }
       ]
     },
@@ -591,7 +707,9 @@
         {
           "id": 5055,
           "title": "Hell Mode  Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvSGVsbF9Nb2RlX19ZYXJpa29taXp1a2lfbm9fR2FtZXJfd2FfSGFpX1NldHRlaV9ub19Jc2VrYWlfZGVfTXVzb3Vfc3VydS5qc29u/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvSGVsbF9Nb2RlX19ZYXJpa29taXp1a2lfbm9fR2FtZXJfd2FfSGFpX1NldHRlaV9ub19Jc2VrYWlfZGVfTXVzb3Vfc3VydS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/04/Hell-Mode-Yarikomizuki-no-Gamer-wa-Hai-Settei-no-Isekai-de-Musou-suru.jpg?fit=1000%2C1421&ssl=1"
         }
       ]
     },
@@ -601,7 +719,9 @@
         {
           "id": 5056,
           "title": "Himitsu no Hiroko-chan",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvSGltaXRzdV9ub19IaXJva28tY2hhbi5qc29u/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvSGltaXRzdV9ub19IaXJva28tY2hhbi5qc29u/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/01/Himitsu-no-Hiroko-chan.jpg?fit=764%2C1200&ssl=1"
         }
       ]
     },
@@ -611,7 +731,8 @@
         {
           "id": 5057,
           "title": "Houkago  Bokura wa Uchuu ni Madou",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvSG91a2Fnb19fQm9rdXJhX3dhX1VjaHV1X25pX01hZG91Lmpzb24/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvSG91a2Fnb19fQm9rdXJhX3dhX1VjaHV1X25pX01hZG91Lmpzb24/",
+          "type": "manga"
         }
       ]
     },
@@ -621,7 +742,9 @@
         {
           "id": 5058,
           "title": "Isekai Walking",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvSXNla2FpX1dhbGtpbmcuanNvbg/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvSXNla2FpX1dhbGtpbmcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/04/d700ca2fd1bedbf2e28036810271b2f3.jpg?fit=400%2C568&ssl=1"
         }
       ]
     },
@@ -631,7 +754,9 @@
         {
           "id": 5059,
           "title": "Isekai Yurutto Survival Seikatsu ~Gakkou no Minna to Isekai no Mujintou ni Tenishitakedo Ore Dake Ra",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvSXNla2FpX1l1cnV0dG9fU3Vydml2YWxfU2Vpa2F0c3Vffkdha2tvdV9ub19NaW5uYV90b19Jc2VrYWlfbm9fTXVqaW50b3VfbmlfVGVuaXNoaXRha2Vkb19PcmVfRGFrZV9SYS5qc29u/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvSXNla2FpX1l1cnV0dG9fU3Vydml2YWxfU2Vpa2F0c3Vffkdha2tvdV9ub19NaW5uYV90b19Jc2VrYWlfbm9fTXVqaW50b3VfbmlfVGVuaXNoaXRha2Vkb19PcmVfRGFrZV9SYS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/01/imagem_2025-01-02_165226660.png?fit=1800%2C2560&ssl=1"
         }
       ]
     },
@@ -641,7 +766,9 @@
         {
           "id": 5060,
           "title": "Jimoto ni Kaettekitara Osananajimi ga Kowareteta",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvSmltb3RvX25pX0thZXR0ZWtpdGFyYV9Pc2FuYW5hamltaV9nYV9Lb3dhcmV0ZXRhLmpzb24/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvSmltb3RvX25pX0thZXR0ZWtpdGFyYV9Pc2FuYW5hamltaV9nYV9Lb3dhcmV0ZXRhLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/04/Jimoto-ni-Kaettekitara-Osananajimi-ga-Kowareteta.jpg?fit=950%2C1351&ssl=1"
         }
       ]
     },
@@ -651,7 +778,9 @@
         {
           "id": 5061,
           "title": "Kaette Kudasai! Akutsu-san",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvS2FldHRlX0t1ZGFzYWkhX0FrdXRzdS1zYW4uanNvbg/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvS2FldHRlX0t1ZGFzYWkhX0FrdXRzdS1zYW4uanNvbg/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/01/Kaette-Kudasai-Akutsu-san.jpg?fit=1801%2C2560&ssl=1"
         }
       ]
     },
@@ -661,7 +790,9 @@
         {
           "id": 5062,
           "title": "Kage no Jitsuryokusha ni Naritakute!",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvS2FnZV9ub19KaXRzdXJ5b2t1c2hhX25pX05hcml0YWt1dGUhLmpzb24/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvS2FnZV9ub19KaXRzdXJ5b2t1c2hhX25pX05hcml0YWt1dGUhLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/07/Kage-no-Jitsuryokusha-ni-Naritakute-Manga-Free.jpg?fit=600%2C800&ssl=1"
         }
       ]
     },
@@ -671,7 +802,9 @@
         {
           "id": 5063,
           "title": "Kanpeki Sugite Kawaige ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvS2FucGVraV9TdWdpdGVfS2F3YWlnZV9nYV9OYWlfdG9fS29ueWFrdV9IYWtpX1NhcmV0YV9TZWlqb193YV9SaW5nb2t1X25pX1VyYXJlcnUuanNvbg/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvS2FucGVraV9TdWdpdGVfS2F3YWlnZV9nYV9OYWlfdG9fS29ueWFrdV9IYWtpX1NhcmV0YV9TZWlqb193YV9SaW5nb2t1X25pX1VyYXJlcnUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/07/Kanpekisugite-Kawaige-ga-Nai-to-Konyaku-Haki-sareta-Seijo-wa-Ringoku-ni-Urareru-Manga-Free.jpg?fit=600%2C800&ssl=1"
         }
       ]
     },
@@ -681,7 +814,9 @@
         {
           "id": 5064,
           "title": "Meiou-sama ga Tooru no desu yo!",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvTWVpb3Utc2FtYV9nYV9Ub29ydV9ub19kZXN1X3lvIS5qc29u/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvTWVpb3Utc2FtYV9nYV9Ub29ydV9ub19kZXN1X3lvIS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/04/Meiou-sama-ga-Tooru-no-desu-yo.jpg?fit=950%2C1344&ssl=1"
         }
       ]
     },
@@ -691,7 +826,9 @@
         {
           "id": 5065,
           "title": "Ore wa Seikan Kokka no Akutoku Ryoshu!",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvT3JlX3dhX1NlaWthbl9Lb2trYV9ub19Ba3V0b2t1X1J5b3NodSEuanNvbg/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvT3JlX3dhX1NlaWthbl9Lb2trYV9ub19Ba3V0b2t1X1J5b3NodSEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/07/Ore-wa-Seikan-Kokka-no-Akutoku-Ryoshu-Manga-Free.jpg?fit=600%2C800&ssl=1"
         }
       ]
     },
@@ -701,7 +838,9 @@
         {
           "id": 5066,
           "title": "Pyu to Fuku! Jaguar",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvUHl1X3RvX0Z1a3UhX0phZ3Vhci5qc29u/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvUHl1X3RvX0Z1a3UhX0phZ3Vhci5qc29u/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/04/Pyu-to-Fuku-Jaguar.jpg?fit=760%2C1200&ssl=1"
         }
       ]
     },
@@ -711,7 +850,9 @@
         {
           "id": 5067,
           "title": "Rokudou no Onna-tachi",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvUm9rdWRvdV9ub19Pbm5hLXRhY2hpLmpzb24/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvUm9rdWRvdV9ub19Pbm5hLXRhY2hpLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/03/Rokudou-no-Onna-tachi.jpg?fit=777%2C1200&ssl=1"
         }
       ]
     },
@@ -721,7 +862,9 @@
         {
           "id": 5068,
           "title": "Saint Seiya  Saintia Sho Memories",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvU2FpbnRfU2VpeWFfX1NhaW50aWFfU2hvX01lbW9yaWVzLmpzb24/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvU2FpbnRfU2VpeWFfX1NhaW50aWFfU2hvX01lbW9yaWVzLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/04/Saint-Seiya-Saintia-Sho-Memories.jpg?fit=460%2C661&ssl=1"
         }
       ]
     },
@@ -731,7 +874,8 @@
         {
           "id": 5069,
           "title": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node  Henkyou de Slow Life suru Koto ni Shima",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvU2hpbl9ub19OYWthbWFfamFfTmFpX3RvX1l1dXNoYV9ub19QYXJ0eV93b19PaWRhc2FyZXRhX25vZGVfX0hlbmt5b3VfZGVfU2xvd19MaWZlX3N1cnVfS290b19uaV9TaGltYS5qc29u/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvU2hpbl9ub19OYWthbWFfamFfTmFpX3RvX1l1dXNoYV9ub19QYXJ0eV93b19PaWRhc2FyZXRhX25vZGVfX0hlbmt5b3VfZGVfU2xvd19MaWZlX3N1cnVfS290b19uaV9TaGltYS5qc29u/",
+          "type": "manga"
         }
       ]
     },
@@ -741,7 +885,9 @@
         {
           "id": 5070,
           "title": "Shuumatsu no Harem  Britannia Lumiére",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvU2h1dW1hdHN1X25vX0hhcmVtX19Ccml0YW5uaWFfTHVtacOpcmUuanNvbg/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvU2h1dW1hdHN1X25vX0hhcmVtX19Ccml0YW5uaWFfTHVtacOpcmUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/05/09380593-c868-43b1-96f1-6efb61c2c55e.jpg?fit=844%2C1200&ssl=1"
         }
       ]
     },
@@ -751,7 +897,9 @@
         {
           "id": 5071,
           "title": "Shuumatsu no Harem  Fantasia Gakuen",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvU2h1dW1hdHN1X25vX0hhcmVtX19GYW50YXNpYV9HYWt1ZW4uanNvbg/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvU2h1dW1hdHN1X25vX0hhcmVtX19GYW50YXNpYV9HYWt1ZW4uanNvbg/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/05/136c4083-fbf3-449a-80ad-7c635d49b11b.jpg?fit=844%2C1200&ssl=1"
         }
       ]
     },
@@ -761,7 +909,9 @@
         {
           "id": 5072,
           "title": "Shuumatsu no Walküre Kinden  Kamigami no Apocalypse",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvU2h1dW1hdHN1X25vX1dhbGvDvHJlX0tpbmRlbl9fS2FtaWdhbWlfbm9fQXBvY2FseXBzZS5qc29u/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvU2h1dW1hdHN1X25vX1dhbGvDvHJlX0tpbmRlbl9fS2FtaWdhbWlfbm9fQXBvY2FseXBzZS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/07/34740ea5-d764-4d2f-90d4-ec305179c35c.jpg?fit=300%2C427&ssl=1"
         }
       ]
     },
@@ -771,7 +921,9 @@
         {
           "id": 5073,
           "title": "SHY",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvU0hZLmpzb24/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvU0hZLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/03/SHY.jpg?fit=1000%2C1532&ssl=1"
         }
       ]
     },
@@ -781,7 +933,9 @@
         {
           "id": 5074,
           "title": "Sora wo Matotte",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvU29yYV93b19NYXRvdHRlLmpzb24/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvU29yYV93b19NYXRvdHRlLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/01/Sora-wo-Matotte.jpg?fit=1440%2C2048&ssl=1"
         }
       ]
     },
@@ -791,7 +945,9 @@
         {
           "id": 5075,
           "title": "SPY×FAMILY",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvU1BZw5dGQU1JTFkuanNvbg/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvU1BZw5dGQU1JTFkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/08/SPY%C3%97FAMILY-Manga.jpg?fit=600%2C800&ssl=1"
         }
       ]
     },
@@ -801,7 +957,9 @@
         {
           "id": 5076,
           "title": "TS Eiseihei-san no Senjou Nikki",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvVFNfRWlzZWloZWktc2FuX25vX1NlbmpvdV9OaWtraS5qc29u/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvVFNfRWlzZWloZWktc2FuX25vX1NlbmpvdV9OaWtraS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/04/TS-Eiseihei-san-no-Senjou-Nikki.jpg?fit=1000%2C1421&ssl=1"
         }
       ]
     },
@@ -811,7 +969,9 @@
         {
           "id": 5077,
           "title": "Tsue to Tsurugi no Wistoria",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvVHN1ZV90b19Uc3VydWdpX25vX1dpc3RvcmlhLmpzb24/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvVHN1ZV90b19Uc3VydWdpX25vX1dpc3RvcmlhLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/07/Tsue-to-Tsurugi-no-Wistoria-Manga-Free.jpg?fit=600%2C800&ssl=1"
         }
       ]
     },
@@ -821,7 +981,9 @@
         {
           "id": 5078,
           "title": "Tsui no Taimashi Ender Geister",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvVHN1aV9ub19UYWltYXNoaV9FbmRlcl9HZWlzdGVyLmpzb24/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvVHN1aV9ub19UYWltYXNoaV9FbmRlcl9HZWlzdGVyLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/01/Tsui-no-Taimashi-Ender-Geister-v18.jpg?fit=1441%2C2048&ssl=1"
         }
       ]
     },
@@ -831,7 +993,8 @@
         {
           "id": 5079,
           "title": "Tsuihousareru Tabi ni Skill wo Te ni Ireta Ore ga  100 no Isekai de 2-shuume Musou",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvVHN1aWhvdXNhcmVydV9UYWJpX25pX1NraWxsX3dvX1RlX25pX0lyZXRhX09yZV9nYV9fMTAwX25vX0lzZWthaV9kZV8yLXNodXVtZV9NdXNvdS5qc29u/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvVHN1aWhvdXNhcmVydV9UYWJpX25pX1NraWxsX3dvX1RlX25pX0lyZXRhX09yZV9nYV9fMTAwX25vX0lzZWthaV9kZV8yLXNodXVtZV9NdXNvdS5qc29u/",
+          "type": "manga"
         }
       ]
     },
@@ -841,7 +1004,9 @@
         {
           "id": 5080,
           "title": "Uchuujin no Kakushigoto",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvVWNodXVqaW5fbm9fS2FrdXNoaWdvdG8uanNvbg/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvVWNodXVqaW5fbm9fS2FrdXNoaWdvdG8uanNvbg/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/01/Uchuujin-no-Kakushigoto-scaled.jpg?fit=1800%2C2560&ssl=1"
         }
       ]
     },
@@ -851,7 +1016,9 @@
         {
           "id": 5081,
           "title": "Uma Musume  Cinderella Gray",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvVW1hX011c3VtZV9fQ2luZGVyZWxsYV9HcmF5Lmpzb24/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvVW1hX011c3VtZV9fQ2luZGVyZWxsYV9HcmF5Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/01/28196e802aab441db8c0a2a55a307179.jpg?fit=400%2C569&ssl=1"
         }
       ]
     },
@@ -861,7 +1028,8 @@
         {
           "id": 5082,
           "title": "Uragirareta Boukensha  Andeddo Toshite Yomigaeri Musou Suru",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvVXJhZ2lyYXJldGFfQm91a2Vuc2hhX19BbmRlZGRvX1Rvc2hpdGVfWW9taWdhZXJpX011c291X1N1cnUuanNvbg/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvVXJhZ2lyYXJldGFfQm91a2Vuc2hhX19BbmRlZGRvX1Rvc2hpdGVfWW9taWdhZXJpX011c291X1N1cnUuanNvbg/",
+          "type": "manga"
         }
       ]
     },
@@ -871,7 +1039,9 @@
         {
           "id": 5083,
           "title": "Usogui",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvVXNvZ3VpLmpzb24/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvVXNvZ3VpLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/01/Usogui.jpg?fit=844%2C1200&ssl=1"
         }
       ]
     },
@@ -881,7 +1051,9 @@
         {
           "id": 5084,
           "title": "Watashi no Oshi wa Akuyaku Reijou",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvV2F0YXNoaV9ub19Pc2hpX3dhX0FrdXlha3VfUmVpam91Lmpzb24/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvV2F0YXNoaV9ub19Pc2hpX3dhX0FrdXlha3VfUmVpam91Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/06/Watashi-no-Oshi-wa-Akuyaku-Reijou-Manga.jpg?fit=600%2C800&ssl=1"
         }
       ]
     },
@@ -891,7 +1063,9 @@
         {
           "id": 5086,
           "title": "Zatch Bell! 2",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvWmF0Y2hfQmVsbCFfMi5qc29u/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvWmF0Y2hfQmVsbCFfMi5qc29u/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/04/Zatch-Bell-2.jpg?fit=1000%2C1422&ssl=1"
         }
       ]
     },
@@ -901,7 +1075,8 @@
         {
           "id": 5087,
           "title": "Zense wa Reikoku Koutei  Konse wa Youjo",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvWmVuc2Vfd2FfUmVpa29rdV9Lb3V0ZWlfX0tvbnNlX3dhX1lvdWpvLmpzb24/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvWmVuc2Vfd2FfUmVpa29rdV9Lb3V0ZWlfX0tvbnNlX3dhX1lvdWpvLmpzb24/",
+          "type": "manga"
         }
       ]
     },
@@ -911,7 +1086,9 @@
         {
           "id": 5088,
           "title": "Zom 100  Zombie ni Naru made ni Shitai 100 no Koto",
-          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvWm9tXzEwMF9fWm9tYmllX25pX05hcnVfbWFkZV9uaV9TaGl0YWlfMTAwX25vX0tvdG8uanNvbg/"
+          "url": "https://cubari.moe/read/gist/cmF3L0pob29yb2RyZS9kYXRhX2drL3JlZnMvaGVhZHMvbWFpbi9tZ2EvWm9tXzEwMF9fWm9tYmllX25pX05hcnVfbWFkZV9uaV9TaGl0YWlfMTAwX25vX0tvdG8uanNvbg/",
+          "type": "manga",
+          "cover_url": "https://i0.wp.com/mangalivre.tv/wp-content/uploads/2025/06/a6dd51959f56d3244960238404c5db43.jpg?fit=400%2C566&ssl=1"
         }
       ]
     }
